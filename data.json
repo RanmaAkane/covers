@@ -1290,7 +1290,107 @@
                 "season": 7
             }
         ],
-        "movies": [],
-        "ovas": []
+        "movies": [
+            {
+                "id": 1,
+                "code": "mov01",
+                "name": "01-Gran-Aventura-en-Nekonron-China.mp4",
+                "url": "https://www.mediafire.com/file/lc1xfa91vblxoh0/01-Gran-Aventura-en-Nekonron-China.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/movie1.jpg"
+            },
+            {
+                "id": 2,
+                "code": "mov02",
+                "name": "02-La-Isla-de-las-Doncellas.mp4",
+                "url": "https://www.mediafire.com/file/fi9azkrbzy31xof/02-La-Isla-de-las-Doncellas.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/movie2.jpg"
+            }
+        ],
+        "ovas": [
+            {
+                "id": 1,
+                "code": "ova01",
+                "name": "01-Enfrentamiento-con-Shampoo!-El-problema-de-la-joya-reversible.mp4",
+                "url": "https://www.mediafire.com/file/abgzr43pb0znhse/01-Enfrentamiento-con-Shampoo%2521-El-problema-de-la-joya-reversible.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova1.jpg"
+            },
+            {
+                "id": 2,
+                "code": "ova02",
+                "name": "02-La-loca-Navidad-de-los-Tendo.mp4",
+                "url": "https://www.mediafire.com/file/y8mpo5onctbhp0b/02-La-loca-Navidad-de-los-Tendo.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova2.jpg"
+            },
+            {
+                "id": 3,
+                "code": "ova03",
+                "name": "03-Akane-contra-Ranma-¡Yo-voy-a-proteger-la-receta-de-mamá!.mp4",
+                "url": "https://www.mediafire.com/file/nb1t4offrtgp9nm/03-Akane-contra-Ranma-%25C2%25A1Yo-voy-a-proteger-la-receta-de-mam%25C3%25A1%2521.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova3.jpg"
+            },
+            {
+                "id": 4,
+                "code": "ova04",
+                "name": "04-¡Tormenta-en-el-instituto!-El-cambio-adulto-de-la-profesora-Hinako.mp4",
+                "url": "https://www.mediafire.com/file/um9jjpv9qfjg0ce/04-%25C2%25A1Tormenta-en-el-instituto%2521-El-cambio-adulto-de-la-profesora-Hinako.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova4.jpg"
+            },
+            {
+                "id": 5,
+                "code": "ova05",
+                "name": "05-Akane-y-sus-hermanas-(1ª-Parte).mp4",
+                "url": "https://www.mediafire.com/file/furp0eup2eg4p6q/05-Akane-y-sus-hermanas-%25281%25C2%25AA-Parte%2529.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova5.jpg"
+            },
+            {
+                "id": 6,
+                "code": "ova06",
+                "name": "06-Akane-y-sus-hermanas-(2ª-Parte).mp4",
+                "url": "https://www.mediafire.com/file/u3w2u875ol5eifm/06-Akane-y-sus-hermanas-%25282%25C2%25AA-Parte%2529.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova6.jpg"
+            },
+            {
+                "id": 7,
+                "code": "ova07",
+                "name": "07-El-dragón-de-las-siete-cabezas-(1ª-Parte).mp4",
+                "url": "https://www.mediafire.com/file/gcsc10z8mtab0n6/07-El-drag%25C3%25B3n-de-las-siete-cabezas-%25281%25C2%25AA-Parte%2529.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova7.jpg"
+            },
+            {
+                "id": 8,
+                "code": "ova08",
+                "name": "08-El-dragón-de-las-siete-cabezas-(2ª-Parte).mp4",
+                "url": "https://www.mediafire.com/file/p3mxw4yt2wa1fcg/08-El-drag%25C3%25B3n-de-las-siete-cabezas-%25282%25C2%25AA-Parte%2529.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova8.jpg"
+            },
+            {
+                "id": 9,
+                "code": "ova09",
+                "name": "09-Oh,-¡El-túnel-del-amor-maldito-destruido!-Mi-amor-es-eterno.mp4",
+                "url": "https://www.mediafire.com/file/uzw05jw8cpq8nca/09-Oh%252C-%25C2%25A1El-t%25C3%25BAnel-del-amor-m%2Ald%2At%2A-destruido%2521-Mi-amor-es-eterno.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova9.jpg"
+            },
+            {
+                "id": 10,
+                "code": "ova10",
+                "name": "10-El-Ogro-Demoníaco.mp4",
+                "url": "https://www.mediafire.com/file/tlqvj2w2hd1nz3h/10-El-Ogro-Demon%25C3%25ADaco.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova10.jpg"
+            },
+            {
+                "id": 11,
+                "code": "ova11",
+                "name": "11-¡Las-dos-Akanes!-¡Ranma,-mírame!.mp4",
+                "url": "https://www.mediafire.com/file/skodgnnpg7p7t3m/11-%25C2%25A1Las-dos-Akanes%2521-%25C2%25A1Ranma%252C-m%25C3%25ADrame%2521.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova11.jpg"
+            },
+            {
+                "id": 12,
+                "code": "ova12",
+                "name": "12-¡Pesadilla!-El-incienso-del-sueño-primaveral.mp4",
+                "url": "https://www.mediafire.com/file/kflzanhwmwv1ij0/12-%25C2%25A1Pesadilla%2521-El-incienso-del-sue%25C3%25B1o-primaveral.mp4/file",
+                "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova12.jpg"
+            }
+        ]
     }
 }
