@@ -1,0 +1,2779 @@
+{
+    "episodes": [
+        {
+            "id": 1,
+            "code": "001",
+            "name": "Aparece un mini Goku, su nombre es Gohan",
+            "url": "https://www.mediafire.com/file/544n6kb3j4tbq3m/Videos_De_Mi_Infancia_001_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/1.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 2,
+            "code": "002",
+            "name": "Un guerrero muy fuerte con antecedentes históricos, el hermano de mayor de Goku",
+            "url": "https://www.mediafire.com/file/cao296r76tmwe8d/Videos_De_Mi_Infancia_002_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/2.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 3,
+            "code": "003",
+            "name": "La combinación más fuerte de este mundo",
+            "url": "https://www.mediafire.com/file/f89a8fr8hty3118/Videos_De_Mi_Infancia_003_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/3.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 4,
+            "code": "004",
+            "name": "Piccoro saca su mejor carta, Gohan es un niño llorón",
+            "url": "https://www.mediafire.com/file/18mejtm6fmvw7i7/Videos_De_Mi_Infancia_004_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/4.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 5,
+            "code": "005",
+            "name": "Goku muere ¡Sólo hay una oportunidad!",
+            "url": "https://www.mediafire.com/file/67t61sy1u4hajq5/Videos_De_Mi_Infancia_005_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/5.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 6,
+            "code": "006",
+            "name": "King se sorprende ¿Habrá que luchar en el otro mundo?",
+            "url": "https://www.mediafire.com/file/2xwb38xbpxeb2db/Videos_De_Mi_Infancia_006_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/6.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 7,
+            "code": "007",
+            "name": "Hay que sobrevivir a los dinosaurios, el duro entrenamiento de Gohan",
+            "url": "https://www.mediafire.com/file/nq1b4zvthsyxf6b/Videos_De_Mi_Infancia_007_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/7.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 8,
+            "code": "008",
+            "name": "Una transformación a causa de la Luna, el poder secreto de Gohan",
+            "url": "https://www.mediafire.com/file/5swigqjuaaqqq35/Videos_De_Mi_Infancia_008_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/8.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 9,
+            "code": "009",
+            "name": "Perdóneme señor robot, lagrimas que desaparecen en el desierto",
+            "url": "https://www.mediafire.com/file/l6xo6pfd4ifv9os/Videos_De_Mi_Infancia_009_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/9.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 10,
+            "code": "010",
+            "name": "No llores Gohan, es la primera batalla",
+            "url": "https://www.mediafire.com/file/j0n57v56afwwg7r/Videos_De_Mi_Infancia_010_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/10.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 11,
+            "code": "011",
+            "name": "Los guerreros más fuertes del universo, el despertar de los Saiyajin",
+            "url": "https://www.mediafire.com/file/g3c13223mc30e3r/Videos_De_Mi_Infancia_011_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/11.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 12,
+            "code": "012",
+            "name": "Una pequeña siesta, Goku cae del camino de la serpiente",
+            "url": "https://www.mediafire.com/file/8bhn6c63a8cly7b/Videos_De_Mi_Infancia_012_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/12.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 13,
+            "code": "013",
+            "name": "¡No toques eso! La fruta de Enma Daio Sama",
+            "url": "https://www.mediafire.com/file/ex65e3fkp76b973/Videos_De_Mi_Infancia_013_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/13.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 14,
+            "code": "014",
+            "name": "Una dulce tentación. La hospitalidad de la Princesa Serpiente",
+            "url": "https://www.mediafire.com/file/egxp1ggajz62u86/Videos_De_Mi_Infancia_014_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/14.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 15,
+            "code": "015",
+            "name": "¡Escape de Piccoro! Gohan llama una tormenta",
+            "url": "https://www.mediafire.com/file/mod4v67c8f7xvs5/Videos_De_Mi_Infancia_015_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/15.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 16,
+            "code": "016",
+            "name": "¡Corre Gohan! Milk te espera en la montaña Paoz",
+            "url": "https://www.mediafire.com/file/aojaigqoqqbtt0f/Videos_De_Mi_Infancia_016_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/16.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 17,
+            "code": "017",
+            "name": "¡Una ciudad sin futuro! Un largo camino hacia la victoria",
+            "url": "https://www.mediafire.com/file/29h87k99v7l7wnw/Videos_De_Mi_Infancia_017_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/17.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 18,
+            "code": "018",
+            "name": "El final del camino de la serpiente ¿Tu eres Kaio Sama?",
+            "url": "https://www.mediafire.com/file/sx58vdrh2p25h75/Videos_De_Mi_Infancia_018_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/18.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 19,
+            "code": "019",
+            "name": "¡Domina tu fuerza de gravedad! Atrapa a Bubbles",
+            "url": "https://www.mediafire.com/file/mvqwde4bvm2vbvy/Videos_De_Mi_Infancia_019_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/19.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 20,
+            "code": "020",
+            "name": "¡La leyenda revive! Los antepasados de Goku",
+            "url": "https://www.mediafire.com/file/bio0ez5197x0yyx/Videos_De_Mi_Infancia_020_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/20.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 21,
+            "code": "021",
+            "name": "¡Sal de ahí Shen Long! Los Saiyajin han llegado a la Tierra",
+            "url": "https://www.mediafire.com/file/t2ats5jjtrkwnb4/Videos_De_Mi_Infancia_021_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/21.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 22,
+            "code": "022",
+            "name": "Imposible ¿Saibaimans nacidos en la Tierra?",
+            "url": "https://www.mediafire.com/file/ntq70cji0c5t646/Videos_De_Mi_Infancia_022_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/22.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 23,
+            "code": "023",
+            "name": "¡Yamcha muere! Los temibles Saibaimans",
+            "url": "https://www.mediafire.com/file/grnut5l6fm7fe84/Videos_De_Mi_Infancia_023_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/23.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 24,
+            "code": "024",
+            "name": "¡Adiós Ten! La técnica de sacrificio de Chaoz",
+            "url": "https://www.mediafire.com/file/casej0fd4mjxrar/Videos_De_Mi_Infancia_024_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/24.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 25,
+            "code": "025",
+            "name": "¡El sacrificio de Ten Shin Han! El último Kikouhou",
+            "url": "https://www.mediafire.com/file/vl3btfp4fczmqlz/Videos_De_Mi_Infancia_025_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/25.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 26,
+            "code": "026",
+            "name": "¡Sólo nos quedan 3 horas de vida! ¡Apresúrate Goku!",
+            "url": "https://www.mediafire.com/file/pzn1c98qag384di/Videos_De_Mi_Infancia_026_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/26.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 27,
+            "code": "027",
+            "name": "La furia de Gohan estalla",
+            "url": "https://www.mediafire.com/file/32i8khvi93k4rx7/Videos_De_Mi_Infancia_027_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/27.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 28,
+            "code": "028",
+            "name": "El ataque de los Saiyajin. Kami Sama y Piccoro mueren",
+            "url": "https://www.mediafire.com/file/984l5wcebi5fukb/Videos_De_Mi_Infancia_028_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/28.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 29,
+            "code": "029",
+            "name": "¡Papá eres increíble! Una técnica mortal llamada Kaio-Ken",
+            "url": "https://www.mediafire.com/file/f76m31tu2blcaoz/Videos_De_Mi_Infancia_029_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/29.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 30,
+            "code": "030",
+            "name": "Una pelea fuera de limite. Goku contra Vegeta",
+            "url": "https://www.mediafire.com/file/xp4kidakyg30w0q/Videos_De_Mi_Infancia_030_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/30.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 31,
+            "code": "031",
+            "name": "¡Arriesga tu vida Goku! La última opción",
+            "url": "https://www.mediafire.com/file/q86fb60767zww99/Videos_De_Mi_Infancia_031_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/31.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 32,
+            "code": "032",
+            "name": "¡Poder de pelea 10x! La gran transformación de Vegeta",
+            "url": "https://www.mediafire.com/file/s6g8brea7hh6ro4/Videos_De_Mi_Infancia_032_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/32.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 33,
+            "code": "033",
+            "name": "¡No te mueras papá! El poder escondido de Gohan",
+            "url": "https://www.mediafire.com/file/hcu9prt28p920g6/Videos_De_Mi_Infancia_033_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/33.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 34,
+            "code": "034",
+            "name": "¡Pégale Krilin! La Genkidama de Goku",
+            "url": "https://www.mediafire.com/file/p2ilp4pjas44t4j/Videos_De_Mi_Infancia_034_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/34.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 35,
+            "code": "035",
+            "name": "¡Ocurre un milagro! La transformación de Gohan",
+            "url": "https://www.mediafire.com/file/6ro3qpyaq1e0r7m/Videos_De_Mi_Infancia_035_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/35.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 36,
+            "code": "036",
+            "name": "¡Vayamos al planeta de Piccoro!",
+            "url": "https://www.mediafire.com/file/48fy8iuqsi6lbmh/Videos_De_Mi_Infancia_036_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/36.jpg",
+            "season": 1,
+            "season_name": "Saga de Saiyajin"
+        },
+        {
+            "id": 37,
+            "code": "037",
+            "name": "Un lugar misterioso llamado Yunzabit ¡Busquemos la nave espacial",
+            "url": "https://www.mediafire.com/file/qvh2x0en75oam2u/Dragon.Ball.Z.037.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/37.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 38,
+            "code": "038",
+            "name": "¡Vamos rumbo a Namekusei! Algo extraño los está esperando",
+            "url": "https://www.mediafire.com/file/waurw40883cx6jq/Videos_De_Mi_Infancia_038_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/38.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 39,
+            "code": "039",
+            "name": "¿Serán amigos o enemigos? Los niños de aquella misteriosa nave",
+            "url": "https://www.mediafire.com/file/h0k1ucee03o0v3t/Videos_De_Mi_Infancia_039_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/39.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 40,
+            "code": "040",
+            "name": "¿Es ese Namekusei?",
+            "url": "https://www.mediafire.com/file/satzz51dze1e1k2/Videos_De_Mi_Infancia_040_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/40.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 41,
+            "code": "041",
+            "name": "Unos extraterrestres muy amables",
+            "url": "https://www.mediafire.com/file/7ly2ngrk3r1zy0v/Videos_De_Mi_Infancia_041_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/41.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 42,
+            "code": "042",
+            "name": "El planeta Freezer N° 79. Vegeta ha sido revivido",
+            "url": "https://www.mediafire.com/file/1tdqbobn29uvnrc/Videos_De_Mi_Infancia_042_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/42.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 43,
+            "code": "043",
+            "name": "Hemos reunido las Esferas del Dragón ¡Ahora podremos revivir a Piccoro!",
+            "url": "https://www.mediafire.com/file/6cb1gnbmb42v4bt/Videos_De_Mi_Infancia_043_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/43.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 44,
+            "code": "044",
+            "name": "Un nuevo enemigo. El emperador del universo Freezer",
+            "url": "https://www.mediafire.com/file/jrsdrfif7qwhgi1/Videos_De_Mi_Infancia_044_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/44.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 45,
+            "code": "045",
+            "name": "La ambición de Vegeta ¡Yo soy el guerrero más fuerte del universo!",
+            "url": "https://www.mediafire.com/file/wj53qdp67d0a366/Videos_De_Mi_Infancia_045_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/45.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 46,
+            "code": "046",
+            "name": "El viaje de Goku a Namekusei",
+            "url": "https://www.mediafire.com/file/5l5ne4yve39uod9/Videos_De_Mi_Infancia_046_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/46.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 47,
+            "code": "047",
+            "name": "Un ataque sorpresivo. El anciano destruye los rastreadores",
+            "url": "https://www.mediafire.com/file/p64q6dbkz16p9iz/Videos_De_Mi_Infancia_047_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/47.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 48,
+            "code": "048",
+            "name": "Gohan se arriesga. El perseguidor Dodoria",
+            "url": "https://www.mediafire.com/file/niddq1d1wvagisx/Videos_De_Mi_Infancia_048_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/48.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 49,
+            "code": "049",
+            "name": "La muerte de Dodoria",
+            "url": "https://www.mediafire.com/file/bpeds1qvt0kyc0u/Videos_De_Mi_Infancia_049_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/49.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 50,
+            "code": "050",
+            "name": "Goku utiliza un Kame Hame Ha para salvar su vida",
+            "url": "https://www.mediafire.com/file/zp1w4bcmec4sk12/Videos_De_Mi_Infancia_050_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/50.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 51,
+            "code": "051",
+            "name": "Los grandes peleadores se reúnen con Kaio Sama",
+            "url": "https://www.mediafire.com/file/7caqoa71c3iaqp3/Videos_De_Mi_Infancia_051_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/51.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 52,
+            "code": "052",
+            "name": "¡Escuchame Goku! No te acerques a Freezer",
+            "url": "https://www.mediafire.com/file/4c1i7szz2scqat5/Videos_De_Mi_Infancia_052_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/52.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 53,
+            "code": "053",
+            "name": "La horrible transformación de Zaabon",
+            "url": "https://www.mediafire.com/file/5jmm8smegj6d539/Videos_De_Mi_Infancia_053_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/53.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 54,
+            "code": "054",
+            "name": "¡Hay que proteger el planeta de la esperanza! Krilin aumenta su poder",
+            "url": "https://www.mediafire.com/file/g24158h9ndhr2f9/Videos_De_Mi_Infancia_054_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/54.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 55,
+            "code": "055",
+            "name": "Vegeta revive milagrosamente",
+            "url": "https://www.mediafire.com/file/4ai9ydke3m2ifn1/Videos_De_Mi_Infancia_055_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/55.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 56,
+            "code": "056",
+            "name": "El complot de Freezer se ha desvanecido",
+            "url": "https://www.mediafire.com/file/m666izlv2byzyd9/Videos_De_Mi_Infancia_056_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/56.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 57,
+            "code": "057",
+            "name": "Goku se entrena bajo la gravedad de cien",
+            "url": "https://www.mediafire.com/file/lc64ttr6rbz4vlw/Videos_De_Mi_Infancia_057_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/57.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 58,
+            "code": "058",
+            "name": "El grupo secreto de Freezer. Las terribles fuerzas especiales Ginyu",
+            "url": "https://www.mediafire.com/file/crvia4vjcys8zlu/Videos_De_Mi_Infancia_058_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/58.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 59,
+            "code": "059",
+            "name": "¡Ten cuidado Bulma! La esfera de cuatro estrellas podría caer…",
+            "url": "https://www.mediafire.com/file/sddkoqz3u6i0hpo/Videos_De_Mi_Infancia_059_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/59.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 60,
+            "code": "060",
+            "name": "La inquebrantable voluntad de Goku",
+            "url": "https://www.mediafire.com/file/mav3u538vo1e706/Videos_De_Mi_Infancia_060_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/60.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 61,
+            "code": "061",
+            "name": "La batalla se acerca. Han llegado las fuerzas especiales Ginyu",
+            "url": "https://www.mediafire.com/file/h7zpq2u5ajiq7k6/Dragon.Ball.Z.061.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/61.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 62,
+            "code": "062",
+            "name": "¡Goku se acerca! Los temibles hombres de Freezer",
+            "url": "https://www.mediafire.com/file/csu34xdx05lu953/Dragon.Ball.Z.062.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/62.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 63,
+            "code": "063",
+            "name": "El señor Gurdo se enfada y utiliza un truco de magia",
+            "url": "https://www.mediafire.com/file/yfg05ydo28328zu/Dragon.Ball.Z.063.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/63.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 64,
+            "code": "064",
+            "name": "El terrible Rikum",
+            "url": "https://www.mediafire.com/file/zae2z802vbro9kp/Dragon.Ball.Z.064.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/64.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 65,
+            "code": "065",
+            "name": "¡No te mueras Gohan! Goku finalmente llega al campo de batalla",
+            "url": "https://www.mediafire.com/file/y7sazgqr2zdzo3b/Dragon.Ball.Z.065.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/65.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 66,
+            "code": "066",
+            "name": "El legendario Super Saiyajin Goku",
+            "url": "https://www.mediafire.com/file/p0i093czqfck04b/Dragon.Ball.Z.066.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/66.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 67,
+            "code": "067",
+            "name": "Yiz y Boter atacan a Goku",
+            "url": "https://www.mediafire.com/file/d39z74j9n9mhlu6/Videos_De_Mi_Infancia_067_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/67.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 68,
+            "code": "068",
+            "name": "La aparición del Capitán Ginyu",
+            "url": "https://www.mediafire.com/file/od6sz20ng5616o2/Videos_De_Mi_Infancia_068_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/68.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 69,
+            "code": "069",
+            "name": "¿Ya viste el verdadero poder de Goku?",
+            "url": "https://www.mediafire.com/file/l3pincmpz87ft05/Videos_De_Mi_Infancia_069_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/69.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 70,
+            "code": "070",
+            "name": "Freezer llega con el Patriarca",
+            "url": "https://www.mediafire.com/file/wduusl8uwpt5r3h/Videos_De_Mi_Infancia_070_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/70.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 71,
+            "code": "071",
+            "name": "¿Goku es Ginyu y Ginyu es Goku?",
+            "url": "https://www.mediafire.com/file/x2zm1kvf3zsu6c5/Videos_De_Mi_Infancia_071_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/71.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 72,
+            "code": "072",
+            "name": "¡Sal de ahí Super Shen Long y cumple mi deseo!",
+            "url": "https://www.mediafire.com/file/6lb9pw3qc7lizl4/Videos_De_Mi_Infancia_072_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/72.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 73,
+            "code": "073",
+            "name": "¡Yo no soy él! Gohan ataca a su padre sin temor",
+            "url": "https://www.mediafire.com/file/zqebw4veecb5wac/Videos_De_Mi_Infancia_073_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/73.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 74,
+            "code": "074",
+            "name": "Ginyu se convierte en rana",
+            "url": "https://www.mediafire.com/file/pjyh348p6qi8298/Videos_De_Mi_Infancia_074_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/74.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 75,
+            "code": "075",
+            "name": "Di la clave secreta de las esferas del dragón",
+            "url": "https://www.mediafire.com/file/g77q9yl8a38jpn1/Videos_De_Mi_Infancia_075_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/75.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 76,
+            "code": "076",
+            "name": "Piccoro y Kami Sama reviven con la ayuda de Super Shen Long",
+            "url": "https://www.mediafire.com/file/1pebgmyc8mma5ab/Videos_De_Mi_Infancia_076_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/76.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 77,
+            "code": "077",
+            "name": "¿La aparición de un nuevo guerrero? Piccoro y Neil se fusionan",
+            "url": "https://www.mediafire.com/file/qk57ce0k9bfibd7/Videos_De_Mi_Infancia_077_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/77.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 78,
+            "code": "078",
+            "name": "Una transformación de pesadilla. Freezer tiene un poder de un millón",
+            "url": "https://www.mediafire.com/file/qvr6zq4g8nbc7cl/Videos_De_Mi_Infancia_078_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/78.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 79,
+            "code": "079",
+            "name": "Gohan es atacado por el malvado Freezer",
+            "url": "https://www.mediafire.com/file/vhwol1dan62dwjm/Videos_De_Mi_Infancia_079_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/79.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 80,
+            "code": "080",
+            "name": "La llegada de Piccoro",
+            "url": "https://www.mediafire.com/file/5xkj3tc06ch5j31/Videos_De_Mi_Infancia_080_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/80.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 81,
+            "code": "081",
+            "name": "Piccoro se encarga de derrotar a Freezer",
+            "url": "https://www.mediafire.com/file/axkn83nmq3qncs8/Videos_De_Mi_Infancia_081_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/81.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 82,
+            "code": "082",
+            "name": "La segunda transformación de Freezer",
+            "url": "https://www.mediafire.com/file/vkaefe785vy3te0/Videos_De_Mi_Infancia_082_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/82.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 83,
+            "code": "083",
+            "name": "Freezer tiene ganada la batalla con su tercera transformación",
+            "url": "https://www.mediafire.com/file/1513drm4ff7dw3x/Videos_De_Mi_Infancia_083_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/83.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 84,
+            "code": "084",
+            "name": "La muerte de Dende",
+            "url": "https://www.mediafire.com/file/gs71l12mkew1p9a/Videos_De_Mi_Infancia_084_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/84.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 85,
+            "code": "085",
+            "name": "Goku se recupera",
+            "url": "https://www.mediafire.com/file/wu3zell1rt5fwsf/Videos_De_Mi_Infancia_085_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/85.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 86,
+            "code": "086",
+            "name": "Un guerrero orgulloso muere: Vegeta",
+            "url": "https://www.mediafire.com/file/lnteklwjkcjlskl/Videos_De_Mi_Infancia_086_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/86.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 87,
+            "code": "087",
+            "name": "La batalla final comienza",
+            "url": "https://www.mediafire.com/file/0p4d14p38cky212/Videos_De_Mi_Infancia_087_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/87.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 88,
+            "code": "088",
+            "name": "Un combate de cuerpo a cuerpo",
+            "url": "https://www.mediafire.com/file/1dothjqz1p50614/Videos_De_Mi_Infancia_088_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/88.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 89,
+            "code": "089",
+            "name": "Freezer pelea sin usar las dos manos",
+            "url": "https://www.mediafire.com/file/5r5xc3r7afx5lqu/Videos_De_Mi_Infancia_089_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/89.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 90,
+            "code": "090",
+            "name": "Goku es un sujeto muy audaz",
+            "url": "https://www.mediafire.com/file/ohnkz8jrpbm8e17/Videos_De_Mi_Infancia_090_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/90.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 91,
+            "code": "091",
+            "name": "Goku hace el Kaio Ken aumentado 20 veces",
+            "url": "https://www.mediafire.com/file/4849ksxn0fx84i1/Videos_De_Mi_Infancia_091_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/91.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 92,
+            "code": "092",
+            "name": "La gigantesca Genkidama, esta es la última esperanza",
+            "url": "https://www.mediafire.com/file/7cob9iaaomgj645/Videos_De_Mi_Infancia_092_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/92.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 93,
+            "code": "093",
+            "name": "¡No dejes ir esta oportunidad! Piccoro ayuda a Goku",
+            "url": "https://www.mediafire.com/file/26aex7m2f27qagr/Videos_De_Mi_Infancia_093_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/93.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 94,
+            "code": "094",
+            "name": "El poder destructivo de la Genkidama",
+            "url": "https://www.mediafire.com/file/l4nb29ktmbtg91z/Videos_De_Mi_Infancia_094_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/94.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 95,
+            "code": "095",
+            "name": "Finalmente Goku se convierte en el legendario Super Saiyajin",
+            "url": "https://www.mediafire.com/file/4d7v3budgzrklda/Videos_De_Mi_Infancia_095_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/95.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 96,
+            "code": "096",
+            "name": "Goku vengará la muerte de todos",
+            "url": "https://www.mediafire.com/file/tmjvcfyadqs6loc/Videos_De_Mi_Infancia_096_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/96.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 97,
+            "code": "097",
+            "name": "Un gran destello atraviesa Namekusei",
+            "url": "https://www.mediafire.com/file/rlgk5n1ccv6gcec/Videos_De_Mi_Infancia_097_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/97.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 98,
+            "code": "098",
+            "name": "Freezer utiliza su máximo poder",
+            "url": "https://www.mediafire.com/file/jowdgfcnu60c9e3/Videos_De_Mi_Infancia_098_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/98.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 99,
+            "code": "099",
+            "name": "Namekusei está a punto de estallar, Shen Long cumple nuestro deseo",
+            "url": "https://www.mediafire.com/file/eu1vs3tqmlbr1g5/Videos_De_Mi_Infancia_099_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/99.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 100,
+            "code": "100",
+            "name": "Yo soy el hijo de Goku, Gohan vuelve al campo de batalla",
+            "url": "https://www.mediafire.com/file/b2rjdcn3qxkg8ms/Videos_De_Mi_Infancia_100_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/100.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 101,
+            "code": "101",
+            "name": "El último deseo",
+            "url": "https://www.mediafire.com/file/eyaud2sg9a4h47a/Videos_De_Mi_Infancia_101_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/101.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 102,
+            "code": "102",
+            "name": "La extraordinaria batalla",
+            "url": "https://www.mediafire.com/file/cuwbw4uj30kss9a/Videos_De_Mi_Infancia_102_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/102.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 103,
+            "code": "103",
+            "name": "La desesperación de Freezer",
+            "url": "https://www.mediafire.com/file/w02d116918c11oj/Videos_De_Mi_Infancia_103_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/103.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 104,
+            "code": "104",
+            "name": "La autodestrucción de Freezer",
+            "url": "https://www.mediafire.com/file/jdnljl8gkajybuc/Videos_De_Mi_Infancia_104_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/104.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 105,
+            "code": "105",
+            "name": "Freezer pierde la pelea",
+            "url": "https://www.mediafire.com/file/59469tegkksero6/Videos_De_Mi_Infancia_105_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/105.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 106,
+            "code": "106",
+            "name": "Namekusei explota",
+            "url": "https://www.mediafire.com/file/qni3n6y8ey3fd2l/Videos_De_Mi_Infancia_106_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/106.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 107,
+            "code": "107",
+            "name": "Los guerreros Z han revivido",
+            "url": "https://www.mediafire.com/file/uratn55r1gnx78d/Videos_De_Mi_Infancia_107_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/107.jpg",
+            "season": 2,
+            "season_name": "Saga de Freezer"
+        },
+        {
+            "id": 108,
+            "code": "108",
+            "name": "El templo sagrado está en problemas",
+            "url": "https://www.mediafire.com/file/6566zu65fqd0sp0/Videos_De_Mi_Infancia_108_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/108.jpg",
+            "season": 3,
+            "season_name": "Saga de Garlic Junior"
+        },
+        {
+            "id": 109,
+            "code": "109",
+            "name": "La neblina del mal",
+            "url": "https://www.mediafire.com/file/k6rbs2ecmoyzsku/Videos_De_Mi_Infancia_109_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/109.jpg",
+            "season": 3,
+            "season_name": "Saga de Garlic Junior"
+        },
+        {
+            "id": 110,
+            "code": "110",
+            "name": "Piccoro forma parte de la familia del mal",
+            "url": "https://www.mediafire.com/file/wkhkv4t33k9bcvv/Videos_De_Mi_Infancia_110_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/110.jpg",
+            "season": 3,
+            "season_name": "Saga de Garlic Junior"
+        },
+        {
+            "id": 111,
+            "code": "111",
+            "name": "Piccoro enfrenta a Gohan",
+            "url": "https://www.mediafire.com/file/2vmkvc4kllvc5vw/Videos_De_Mi_Infancia_111_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/111.jpg",
+            "season": 3,
+            "season_name": "Saga de Garlic Junior"
+        },
+        {
+            "id": 112,
+            "code": "112",
+            "name": "El plan de Piccoro",
+            "url": "https://www.mediafire.com/file/hz66ujf8uulup88/Videos_De_Mi_Infancia_112_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/112.jpg",
+            "season": 3,
+            "season_name": "Saga de Garlic Junior"
+        },
+        {
+            "id": 113,
+            "code": "113",
+            "name": "Kami Sama y Mr. Popo van al lugar sagrado",
+            "url": "https://www.mediafire.com/file/mthawzebyfwtsca/Videos_De_Mi_Infancia_113_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/113.jpg",
+            "season": 3,
+            "season_name": "Saga de Garlic Junior"
+        },
+        {
+            "id": 114,
+            "code": "114",
+            "name": "La vida de Kami Sama está en peligro",
+            "url": "https://www.mediafire.com/file/im6r2kqs7n7898x/Videos_De_Mi_Infancia_114_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/114.jpg",
+            "season": 3,
+            "season_name": "Saga de Garlic Junior"
+        },
+        {
+            "id": 115,
+            "code": "115",
+            "name": "El agua ultra sagrada salva al mundo",
+            "url": "https://www.mediafire.com/file/hyj5lv3cekl0o31/Videos_De_Mi_Infancia_115_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/115.jpg",
+            "season": 3,
+            "season_name": "Saga de Garlic Junior"
+        },
+        {
+            "id": 116,
+            "code": "116",
+            "name": "Gohan destruye el planeta maléfico",
+            "url": "https://www.mediafire.com/file/b61bvjlu7q81hv9/Videos_De_Mi_Infancia_116_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/116.jpg",
+            "season": 3,
+            "season_name": "Saga de Garlic Junior"
+        },
+        {
+            "id": 117,
+            "code": "117",
+            "name": "Krilin le propone matrimonio a Maron",
+            "url": "https://www.mediafire.com/file/e2ml3p220tjegeo/Videos_De_Mi_Infancia_117_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/117.jpg",
+            "season": 3,
+            "season_name": "Saga de Garlic Junior"
+        },
+        {
+            "id": 118,
+            "code": "118",
+            "name": "Ese es el planeta Tierra Papá",
+            "url": "https://www.mediafire.com/file/gferoqfky0vobp1/Dragon.Ball.Z.118.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/118.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 119,
+            "code": "119",
+            "name": "Yo me encargaré de derrotar a Freezer",
+            "url": "https://www.mediafire.com/file/gn8zphkr3kcj5tg/Dragon.Ball.Z.119.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/119.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 120,
+            "code": "120",
+            "name": "El final de Freezer",
+            "url": "https://www.mediafire.com/file/0ut8agv0b8d9dar/Dragon.Ball.Z.120.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/120.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 121,
+            "code": "121",
+            "name": "Goku ha regresado",
+            "url": "https://www.mediafire.com/file/mfv83eh7113q8s3/Dragon.Ball.Z.121.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/121.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 122,
+            "code": "122",
+            "name": "La identidad del joven misterioso",
+            "url": "https://www.mediafire.com/file/eqbdt7j3w3cqhtv/Dragon.Ball.Z.122.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/122.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 123,
+            "code": "123",
+            "name": "La técnica especial de Goku",
+            "url": "https://www.mediafire.com/file/ny5babtckgmyd17/Dragon.Ball.Z.123.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/123.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 124,
+            "code": "124",
+            "name": "¡Superaré a Goku!",
+            "url": "https://www.mediafire.com/file/3ad0e198ebyxy8a/Dragon.Ball.Z.124.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/124.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 125,
+            "code": "125",
+            "name": "Una prueba muy difícil para Goku",
+            "url": "https://www.mediafire.com/file/mum6mba9eo3uttd/Dragon.Ball.Z.125.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/125.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 126,
+            "code": "126",
+            "name": "¿Quiénes son los androides?",
+            "url": "https://www.mediafire.com/file/my55uxkvegzgiqr/Dragon.Ball.Z.126.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/126.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 127,
+            "code": "127",
+            "name": "Los temibles androides 19 y 20",
+            "url": "https://www.mediafire.com/file/80aaj75loxtjd5x/Dragon.Ball.Z.127.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/127.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 128,
+            "code": "128",
+            "name": "Goku tiene dos problemas",
+            "url": "https://www.mediafire.com/file/oo3mm1jtf8sgd3f/Dragon.Ball.Z.128.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/128.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 129,
+            "code": "129",
+            "name": "Vegeta se convierte en Super Saiyajin",
+            "url": "https://www.mediafire.com/file/mkesrla8cicr3ls/Dragon.Ball.Z.129.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/129.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 130,
+            "code": "130",
+            "name": "El secreto del Dr. Maki Gero",
+            "url": "https://www.mediafire.com/file/z9y6vln861ekr1j/Dragon.Ball.Z.130.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/130.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 131,
+            "code": "131",
+            "name": "¿La realidad es acaso mucho peor que el futuro?",
+            "url": "https://www.mediafire.com/file/c8qvwny5hl4awxx/Dragon.Ball.Z.131.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/131.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 132,
+            "code": "132",
+            "name": "Hay que buscar el laboratorio del Dr. Maki Gero",
+            "url": "https://www.mediafire.com/file/9c0hekl67npb44q/Dragon.Ball.Z.132.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/132.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 133,
+            "code": "133",
+            "name": "Los androides 17 y 18 despiertan",
+            "url": "https://www.mediafire.com/file/qiz3usgxr14bjob/Dragon.Ball.Z.133.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/133.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 134,
+            "code": "134",
+            "name": "El ejército encargado de matar a Goku",
+            "url": "https://www.mediafire.com/file/hgs7h3gbyeojkye/Dragon.Ball.Z.134.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/134.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 135,
+            "code": "135",
+            "name": "Las habilidades de la androide 18",
+            "url": "https://www.mediafire.com/file/rgp16od8i26mw6b/Dragon.Ball.Z.135.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/135.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 136,
+            "code": "136",
+            "name": "¿Este será el fin de los Guerreros Z?",
+            "url": "https://www.mediafire.com/file/fgmh22mka046eym/Dragon.Ball.Z.136.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/136.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 137,
+            "code": "137",
+            "name": "La decisión de Piccoro",
+            "url": "https://www.mediafire.com/file/pv8865h5a9fxtwj/Dragon.Ball.Z.137.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/137.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 138,
+            "code": "138",
+            "name": "Los androides destructores",
+            "url": "https://www.mediafire.com/file/aj2o2gu8nc61wuc/Dragon.Ball.Z.138.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/138.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 139,
+            "code": "139",
+            "name": "Bulma se entera de un gran misterio",
+            "url": "https://www.mediafire.com/file/e2hijilq2pwjeb1/Dragon.Ball.Z.139.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/139.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 140,
+            "code": "140",
+            "name": "Un misterioso huevo encontrado en la máquina del tiempo",
+            "url": "https://www.mediafire.com/file/gyk58547ps4d3cw/Dragon.Ball.Z.140.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/140.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 141,
+            "code": "141",
+            "name": "El nacimiento de un nuevo guerrero",
+            "url": "https://www.mediafire.com/file/5ev30y4doml7oe1/Videos_De_Mi_Infancia_141_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/141.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 142,
+            "code": "142",
+            "name": "El monstruo que tiene el ki de Goku",
+            "url": "https://www.mediafire.com/file/725yf4zob0ld720/Videos_De_Mi_Infancia_142_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/142.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 143,
+            "code": "143",
+            "name": "El androide Cell",
+            "url": "https://www.mediafire.com/file/v19oxgbo55ekjyv/Videos_De_Mi_Infancia_143_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/143.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 144,
+            "code": "144",
+            "name": "Cell se escapa de las manos de Piccoro",
+            "url": "https://www.mediafire.com/file/195x48tav9g1sga/Videos_De_Mi_Infancia_144_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/144.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 145,
+            "code": "145",
+            "name": "La habitación secreta del laboratorio del Dr. Maki Gero",
+            "url": "https://www.mediafire.com/file/dkiwib77hd6891k/Videos_De_Mi_Infancia_145_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/145.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 146,
+            "code": "146",
+            "name": "Goku se recupera",
+            "url": "https://www.mediafire.com/file/bju6ox5i4krid5o/Videos_De_Mi_Infancia_146_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/146.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 147,
+            "code": "147",
+            "name": "¡Vámos a la Habitación del Tiempo!",
+            "url": "https://www.mediafire.com/file/i3cx40142n6uv2y/Videos_De_Mi_Infancia_147_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/147.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 148,
+            "code": "148",
+            "name": "Piccoro vs. el androide 17",
+            "url": "https://www.mediafire.com/file/jgmn54s84dz3zql/Videos_De_Mi_Infancia_148_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/148.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 149,
+            "code": "149",
+            "name": "Cell está a punto de perfeccionar su cuerpo",
+            "url": "https://www.mediafire.com/file/8e5ujh03iygr7nv/Videos_De_Mi_Infancia_149_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/149.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 150,
+            "code": "150",
+            "name": "Piccoro pelea con todas sus fuerzas",
+            "url": "https://www.mediafire.com/file/obhk0n60n26h8yn/Videos_De_Mi_Infancia_150_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/150.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 151,
+            "code": "151",
+            "name": "La última esperanza, el androide 16",
+            "url": "https://www.mediafire.com/file/eusz7zd861u3izp/Videos_De_Mi_Infancia_151_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/151.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 152,
+            "code": "152",
+            "name": "Cell absorbe al androide 17",
+            "url": "https://www.mediafire.com/file/8nnqs1i8s6ic8ba/Videos_De_Mi_Infancia_152_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/152.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 153,
+            "code": "153",
+            "name": "El nuevo desafio de Goku",
+            "url": "https://www.mediafire.com/file/ekmkk1vamv57wag/Videos_De_Mi_Infancia_153_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/153.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 154,
+            "code": "154",
+            "name": "¡Sal de ahí androide 18!",
+            "url": "https://www.mediafire.com/file/y5n4r8791wd9r74/Videos_De_Mi_Infancia_154_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/154.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 155,
+            "code": "155",
+            "name": "El super poder de Vegeta",
+            "url": "https://www.mediafire.com/file/rwgd3rw0miewyi6/Videos_De_Mi_Infancia_155_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/155.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 156,
+            "code": "156",
+            "name": "¡Yo soy super Vegeta!",
+            "url": "https://www.mediafire.com/file/s8w8paw1iybbes1/Videos_De_Mi_Infancia_156_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/156.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 157,
+            "code": "157",
+            "name": "Un guerrero orgulloso",
+            "url": "https://www.mediafire.com/file/ey4aagepa76yin7/Videos_De_Mi_Infancia_157_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/157.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 158,
+            "code": "158",
+            "name": "La decisión de Krilin",
+            "url": "https://www.mediafire.com/file/8x88fszpv7ivb9p/Videos_De_Mi_Infancia_158_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/158.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 159,
+            "code": "159",
+            "name": "Cell busca perfeccionar su cuerpo",
+            "url": "https://www.mediafire.com/file/9rbbkrcckjkc8c5/Videos_De_Mi_Infancia_159_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/159.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 160,
+            "code": "160",
+            "name": "Cell, el Dios de la destrucción",
+            "url": "https://www.mediafire.com/file/8vhc4n9xm4vz2qn/Videos_De_Mi_Infancia_160_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/160.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 161,
+            "code": "161",
+            "name": "Super Vegeta corre peligro",
+            "url": "https://www.mediafire.com/file/rudq996gze5kcmu/Videos_De_Mi_Infancia_161_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/161.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 162,
+            "code": "162",
+            "name": "Trunks se pone furioso",
+            "url": "https://www.mediafire.com/file/82o35al532e0rjf/Videos_De_Mi_Infancia_162_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/162.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 163,
+            "code": "163",
+            "name": "¡Salva a papá!",
+            "url": "https://www.mediafire.com/file/sashl2e6o61z1op/Videos_De_Mi_Infancia_163_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/163.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 164,
+            "code": "164",
+            "name": "La desesperación de vivir en un futuro infernal",
+            "url": "https://www.mediafire.com/file/p1ru53md7vucok5/Videos_De_Mi_Infancia_164_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/164.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 165,
+            "code": "165",
+            "name": "El punto débil de Super Trunks",
+            "url": "https://www.mediafire.com/file/xdk4y78w47pcbwn/Videos_De_Mi_Infancia_165_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/165.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 166,
+            "code": "166",
+            "name": "El misterio del nuevo Torneo de las Artes Marciales",
+            "url": "https://www.mediafire.com/file/6z4614mi1ffz68t/Videos_De_Mi_Infancia_166_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/166.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 167,
+            "code": "167",
+            "name": "El aviso del Torneo de Cell",
+            "url": "https://www.mediafire.com/file/pc91zn5brat1pwa/Videos_De_Mi_Infancia_167_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/167.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 168,
+            "code": "168",
+            "name": "Los nuevos poderes de Goku y Gohan",
+            "url": "https://www.mediafire.com/file/xw39aqf35te6334/Videos_De_Mi_Infancia_168_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/168.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 169,
+            "code": "169",
+            "name": "La tranquilidad de Goku",
+            "url": "https://www.mediafire.com/file/gmmlgy8flm918zd/Videos_De_Mi_Infancia_169_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/169.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 170,
+            "code": "170",
+            "name": "El descanso de los guerreros",
+            "url": "https://www.mediafire.com/file/g9tde650rdwgead/Videos_De_Mi_Infancia_170_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/170.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 171,
+            "code": "171",
+            "name": "Cuando Gohan era un bebé",
+            "url": "https://www.mediafire.com/file/3mbt5a1zrea1tcr/Videos_De_Mi_Infancia_171_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/171.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 172,
+            "code": "172",
+            "name": "¡Busquemos a un nuevo Kami Sama!",
+            "url": "https://www.mediafire.com/file/vjwbadq613h617m/Videos_De_Mi_Infancia_172_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/172.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 173,
+            "code": "173",
+            "name": "Las Esferas del Dragón vuelven a existir",
+            "url": "https://www.mediafire.com/file/003d0dqo4klk4ab/Videos_De_Mi_Infancia_173_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/173.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 174,
+            "code": "174",
+            "name": "El sufrimiento de Goku",
+            "url": "https://www.mediafire.com/file/wq5418cxwpny15q/Videos_De_Mi_Infancia_174_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/174.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 175,
+            "code": "175",
+            "name": "El Torneo de Cell comienza",
+            "url": "https://www.mediafire.com/file/w5bwor2di84acgr/Videos_De_Mi_Infancia_175_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/175.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 176,
+            "code": "176",
+            "name": "El ejército de Mr. Satán",
+            "url": "https://www.mediafire.com/file/1k0sj7mbqxaciax/Videos_De_Mi_Infancia_176_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/176.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 177,
+            "code": "177",
+            "name": "Goku vs. Cell",
+            "url": "https://www.mediafire.com/file/3i66o958ipynp9a/Videos_De_Mi_Infancia_177_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/177.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 178,
+            "code": "178",
+            "name": "El super Kamehameha de Cell",
+            "url": "https://www.mediafire.com/file/fu7e7b09w2b0hbx/Videos_De_Mi_Infancia_178_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/178.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 179,
+            "code": "179",
+            "name": "Cell cambia las reglas del Torneo",
+            "url": "https://www.mediafire.com/file/i5keab4pfzxzv88/Videos_De_Mi_Infancia_179_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/179.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 180,
+            "code": "180",
+            "name": "¿Goku se rinde?",
+            "url": "https://www.mediafire.com/file/88ykyp38np9u52u/Videos_De_Mi_Infancia_180_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/180.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 181,
+            "code": "181",
+            "name": "Gohan, el joven más fuerte",
+            "url": "https://www.mediafire.com/file/79avufui9phaei9/Videos_De_Mi_Infancia_181_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/181.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 182,
+            "code": "182",
+            "name": "Gohan, expulsa todo tu poder",
+            "url": "https://www.mediafire.com/file/7444t4t9t81a794/Videos_De_Mi_Infancia_182_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/182.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 183,
+            "code": "183",
+            "name": "El ataque de los Cell Juniors",
+            "url": "https://www.mediafire.com/file/eg0jchm81lm58ui/Videos_De_Mi_Infancia_183_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/183.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 184,
+            "code": "184",
+            "name": "Gohan se enfada",
+            "url": "https://www.mediafire.com/file/ertn6w3elyza0vb/Videos_De_Mi_Infancia_184_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/184.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 185,
+            "code": "185",
+            "name": "La destrucción de los Cell Juniors",
+            "url": "https://www.mediafire.com/file/8jlzl8t9qbtm9sy/Videos_De_Mi_Infancia_185_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/185.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 186,
+            "code": "186",
+            "name": "Cell es golpeado",
+            "url": "https://www.mediafire.com/file/kqbidf3xobh37x4/Videos_De_Mi_Infancia_186_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/186.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 187,
+            "code": "187",
+            "name": "La transformación de Cell",
+            "url": "https://www.mediafire.com/file/43qj958q95w8vl8/Videos_De_Mi_Infancia_187_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/187.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 188,
+            "code": "188",
+            "name": "Adiós a todos",
+            "url": "https://www.mediafire.com/file/tgqr1qm7wkbo65a/Videos_De_Mi_Infancia_188_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/188.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 189,
+            "code": "189",
+            "name": "Una terrible pesadilla en pleno día",
+            "url": "https://www.mediafire.com/file/fzt1swsc8qd90w4/Videos_De_Mi_Infancia_189_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/189.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 190,
+            "code": "190",
+            "name": "Un mensaje para Gohan",
+            "url": "https://www.mediafire.com/file/gip65n3nk5v6c68/Videos_De_Mi_Infancia_190_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/190.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 191,
+            "code": "191",
+            "name": "La pelea ha terminado, gracias Goku",
+            "url": "https://www.mediafire.com/file/15e4amg6y83yl78/Videos_De_Mi_Infancia_191_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/191.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 192,
+            "code": "192",
+            "name": "Goku se va a entrenar al más allá",
+            "url": "https://www.mediafire.com/file/818gxejaal3eh1a/Videos_De_Mi_Infancia_192_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/192.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 193,
+            "code": "193",
+            "name": "¡Papá, jamás me daré por vencido!",
+            "url": "https://www.mediafire.com/file/2uyrv01jhlvhut4/Videos_De_Mi_Infancia_193_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/193.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 194,
+            "code": "194",
+            "name": "Otro final feliz",
+            "url": "https://www.mediafire.com/file/y96eqa9sz777l3d/Videos_De_Mi_Infancia_194_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/194.jpg",
+            "season": 4,
+            "season_name": "Saga de Cell"
+        },
+        {
+            "id": 195,
+            "code": "195",
+            "name": "El peleador más fuerte del otro mundo",
+            "url": "https://www.mediafire.com/file/ybi5dhrbr4f0423/Videos_De_Mi_Infancia_195_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/195.jpg",
+            "season": 5,
+            "season_name": "Saga Torneo del otro mundo"
+        },
+        {
+            "id": 196,
+            "code": "196",
+            "name": "La reunión de los peleadores más valientes",
+            "url": "https://www.mediafire.com/file/xp51kzt7vj3wh8f/Videos_De_Mi_Infancia_196_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/196.jpg",
+            "season": 5,
+            "season_name": "Saga Torneo del otro mundo"
+        },
+        {
+            "id": 197,
+            "code": "197",
+            "name": "El Torneo se pone emocionante",
+            "url": "https://www.mediafire.com/file/7aamj0ntjc2i76q/Videos_De_Mi_Infancia_197_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/197.jpg",
+            "season": 5,
+            "season_name": "Saga Torneo del otro mundo"
+        },
+        {
+            "id": 198,
+            "code": "198",
+            "name": "¿Quién ganará? ¿Goku o Paiku Han?",
+            "url": "https://www.mediafire.com/file/rrju1x6hrg8upl7/Videos_De_Mi_Infancia_198_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/198.jpg",
+            "season": 5,
+            "season_name": "Saga Torneo del otro mundo"
+        },
+        {
+            "id": 199,
+            "code": "199",
+            "name": "Goku hace un Kamehameha a toda velocidad",
+            "url": "https://www.mediafire.com/file/d3pq74958b74143/Videos_De_Mi_Infancia_199_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/199.jpg",
+            "season": 5,
+            "season_name": "Saga Torneo del otro mundo"
+        },
+        {
+            "id": 200,
+            "code": "200",
+            "name": "Gohan asiste a la preparatoria",
+            "url": "https://www.mediafire.com/file/xdieala8m42omzu/Videos_De_Mi_Infancia_200_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/200.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 201,
+            "code": "201",
+            "name": "El guerrero que lucha por el amor y la justicia, el Gran Saiyaman",
+            "url": "https://www.mediafire.com/file/w5g5e1zf2692o6r/Videos_De_Mi_Infancia_201_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/201.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 202,
+            "code": "202",
+            "name": "La primera cita de Gohan",
+            "url": "https://www.mediafire.com/file/2c378a2f06fayhf/Videos_De_Mi_Infancia_202_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/202.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 203,
+            "code": "203",
+            "name": "Gohan salva a Videl",
+            "url": "https://www.mediafire.com/file/y2bu42cbcw31rh7/Videos_De_Mi_Infancia_203_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/203.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 204,
+            "code": "204",
+            "name": "¿El ladrón es el Gran Saiyaman?",
+            "url": "https://www.mediafire.com/file/05dyw7dd1cf1pho/Videos_De_Mi_Infancia_204_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/204.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 205,
+            "code": "205",
+            "name": "Goku regresa",
+            "url": "https://www.mediafire.com/file/4sd9l2vdttd3j3b/Videos_De_Mi_Infancia_205_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/205.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 206,
+            "code": "206",
+            "name": "El sorprendente poder de Goten",
+            "url": "https://www.mediafire.com/file/wn667e603ykbwrs/Videos_De_Mi_Infancia_206_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/206.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 207,
+            "code": "207",
+            "name": "El entrenamiento para volar",
+            "url": "https://www.mediafire.com/file/jeugoxvn8lrkzxf/Videos_De_Mi_Infancia_207_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/207.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 208,
+            "code": "208",
+            "name": "Los Guerreros Z se reunen de nuevo",
+            "url": "https://www.mediafire.com/file/8k36xp6cjwz0ik5/Videos_De_Mi_Infancia_208_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/208.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 209,
+            "code": "209",
+            "name": "Ten cuidado Gran Saiyaman",
+            "url": "https://www.mediafire.com/file/az6yld45363i2uo/Videos_De_Mi_Infancia_209_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/209.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 210,
+            "code": "210",
+            "name": "El pequeño Trunks",
+            "url": "https://www.mediafire.com/file/ag4dnwjbgtwiits/Videos_De_Mi_Infancia_210_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/210.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 211,
+            "code": "211",
+            "name": "Goten se pone nervioso",
+            "url": "https://www.mediafire.com/file/e4e037o4ejatpdb/Videos_De_Mi_Infancia_211_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/211.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 212,
+            "code": "212",
+            "name": "El campeón del torneo infantil",
+            "url": "https://www.mediafire.com/file/kk5v4nd2pcv2w90/Videos_De_Mi_Infancia_212_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/212.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 213,
+            "code": "213",
+            "name": "¿Que vas a hacer Mr. Satán?",
+            "url": "https://www.mediafire.com/file/clqtp5btqa19c7n/Videos_De_Mi_Infancia_213_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/213.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 214,
+            "code": "214",
+            "name": "Los combates del Torneo de las Artes Marciales",
+            "url": "https://www.mediafire.com/file/kgogu71z5a79g63/Videos_De_Mi_Infancia_214_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/214.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 215,
+            "code": "215",
+            "name": "¿Qué sucede Piccoro?",
+            "url": "https://www.mediafire.com/file/6y2aeanqqb16q28/Videos_De_Mi_Infancia_215_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/215.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 216,
+            "code": "216",
+            "name": "El misterioso Spopobitch",
+            "url": "https://www.mediafire.com/file/9dh1hi1x57nvn03/Videos_De_Mi_Infancia_216_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/216.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 217,
+            "code": "217",
+            "name": "Gohan se enfurece",
+            "url": "https://www.mediafire.com/file/tpxtq4dm64du2ei/Videos_De_Mi_Infancia_217_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/217.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 218,
+            "code": "218",
+            "name": "Gohan es el Gran Saiyaman",
+            "url": "https://www.mediafire.com/file/tgdptv14xkekpvz/Videos_De_Mi_Infancia_218_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/218.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 219,
+            "code": "219",
+            "name": "El poder de Gohan es robado",
+            "url": "https://www.mediafire.com/file/u3hhomay0es1nmh/Videos_De_Mi_Infancia_219_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/219.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 220,
+            "code": "220",
+            "name": "El mago Babidi",
+            "url": "https://www.mediafire.com/file/pk6njy2e9lil9pj/Videos_De_Mi_Infancia_220_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/220.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 221,
+            "code": "221",
+            "name": "Una bestia del infierno",
+            "url": "https://www.mediafire.com/file/eyei218n43658v1/Videos_De_Mi_Infancia_221_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/221.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 222,
+            "code": "222",
+            "name": "El enfado de Vegeta",
+            "url": "https://www.mediafire.com/file/99qkbwqm196h506/Videos_De_Mi_Infancia_222_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/222.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 223,
+            "code": "223",
+            "name": "El máximo poder de Goku",
+            "url": "https://www.mediafire.com/file/e4s2zc60lao3eas/Videos_De_Mi_Infancia_223_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/223.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 224,
+            "code": "224",
+            "name": "Mr. Satán vs. 3 super guerreros",
+            "url": "https://www.mediafire.com/file/cauak5dt7xo8d5n/Videos_De_Mi_Infancia_224_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/224.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 225,
+            "code": "225",
+            "name": "Una pelea díficil contra N°18",
+            "url": "https://www.mediafire.com/file/la04j90x5aqr2q3/Videos_De_Mi_Infancia_225_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/225.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 226,
+            "code": "226",
+            "name": "¡Es tu turno Gohan!",
+            "url": "https://www.mediafire.com/file/0lrfdffsqzylg2o/Videos_De_Mi_Infancia_226_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/226.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 227,
+            "code": "227",
+            "name": "La idea de Dabura",
+            "url": "https://www.mediafire.com/file/7ca4zt22d1qbdq5/Videos_De_Mi_Infancia_227_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/227.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 228,
+            "code": "228",
+            "name": "El rey de la destrucción, Vegeta",
+            "url": "https://www.mediafire.com/file/5g82ps9nejpxs7n/Videos_De_Mi_Infancia_228_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/228.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 229,
+            "code": "229",
+            "name": "Goku vs. Vegeta",
+            "url": "https://www.mediafire.com/file/7n912mtaisztsyj/Videos_De_Mi_Infancia_229_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/229.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 230,
+            "code": "230",
+            "name": "Babidi espera",
+            "url": "https://www.mediafire.com/file/d6ld40rkf6o46up/Videos_De_Mi_Infancia_230_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/230.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 231,
+            "code": "231",
+            "name": "Majin Boo aparece",
+            "url": "https://www.mediafire.com/file/odnkonhqimru6hr/Videos_De_Mi_Infancia_231_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/231.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 232,
+            "code": "232",
+            "name": "¡No dejaremos que Majin Boo despierte!",
+            "url": "https://www.mediafire.com/file/neo5yugccc6ma4x/Videos_De_Mi_Infancia_232_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/232.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 233,
+            "code": "233",
+            "name": "El lamento del Supremo Kaio Sama",
+            "url": "https://www.mediafire.com/file/s1va3twupukbudf/Videos_De_Mi_Infancia_233_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/233.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 234,
+            "code": "234",
+            "name": "Gohan se encuentra en peligro",
+            "url": "https://www.mediafire.com/file/arfrm49fh8l0vd9/Videos_De_Mi_Infancia_234_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/234.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 235,
+            "code": "235",
+            "name": "¡Te voy a comer!",
+            "url": "https://www.mediafire.com/file/s0s3dda739r1axr/Videos_De_Mi_Infancia_235_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/235.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 236,
+            "code": "236",
+            "name": "Yo acabaré con Majin Boo",
+            "url": "https://www.mediafire.com/file/14panps8a61h1r8/Videos_De_Mi_Infancia_236_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/236.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 237,
+            "code": "237",
+            "name": "Vegeta pelea por sus seres queridos",
+            "url": "https://www.mediafire.com/file/4df248sjp35arly/Videos_De_Mi_Infancia_237_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/237.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 238,
+            "code": "238",
+            "name": "Majin Boo sigue con vida",
+            "url": "https://www.mediafire.com/file/kb7fpoma5y2gjo2/Videos_De_Mi_Infancia_238_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/238.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 239,
+            "code": "239",
+            "name": "Busquen las Esferas del Dragón",
+            "url": "https://www.mediafire.com/file/ui93i7xtkwv18jf/Videos_De_Mi_Infancia_239_LiveConexion.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/239.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 240,
+            "code": "240",
+            "name": "La técnica especial para Goten y Trunks",
+            "url": "https://www.mediafire.com/file/s8l556a9ol6sobi/Videos_De_Mi_Infancia_240_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/240.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 241,
+            "code": "241",
+            "name": "Goten y Trunks. Las esperanzas de salvar al mundo",
+            "url": "https://www.mediafire.com/file/lpw16aco739dgrc/Videos_De_Mi_Infancia_241_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/241.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 242,
+            "code": "242",
+            "name": "Gohan revive",
+            "url": "https://www.mediafire.com/file/ia36t9a6x06dprh/Videos_De_Mi_Infancia_242_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/242.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 243,
+            "code": "243",
+            "name": "La legendaria espada Z",
+            "url": "https://www.mediafire.com/file/hjsu6w57pn7nceq/Videos_De_Mi_Infancia_243_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/243.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 244,
+            "code": "244",
+            "name": "¡Detente Majin Boo!",
+            "url": "https://www.mediafire.com/file/trfmdak7d5b2agu/Videos_De_Mi_Infancia_244_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/244.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 245,
+            "code": "245",
+            "name": "El Super Saiyajin 3",
+            "url": "https://www.mediafire.com/file/ub1jdsdzzmuusze/Videos_De_Mi_Infancia_245_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/245.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 246,
+            "code": "246",
+            "name": "Hasta nunca Babidi",
+            "url": "https://www.mediafire.com/file/sajbjd5376o6bnj/Videos_De_Mi_Infancia_246_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/246.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 247,
+            "code": "247",
+            "name": "La técnica de la fusión",
+            "url": "https://www.mediafire.com/file/uh36oj7741on68o/Videos_De_Mi_Infancia_247_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/247.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 248,
+            "code": "248",
+            "name": "Goku regresa al otro mundo",
+            "url": "https://www.mediafire.com/file/blx25h711ocrech/Videos_De_Mi_Infancia_248_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/248.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 249,
+            "code": "249",
+            "name": "¿En dónde está Gohan?",
+            "url": "https://www.mediafire.com/file/r65hogiir0gp51a/Videos_De_Mi_Infancia_249_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/249.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 250,
+            "code": "250",
+            "name": "La espada Z se ha roto",
+            "url": "https://www.mediafire.com/file/yrjygybov8b8beq/Videos_De_Mi_Infancia_250_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/250.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 251,
+            "code": "251",
+            "name": "La fusión, Gotenks",
+            "url": "https://www.mediafire.com/file/l96lq8lt0kyjf30/Videos_De_Mi_Infancia_251_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/251.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 252,
+            "code": "252",
+            "name": "Mr. Satán salva a la Tierra",
+            "url": "https://www.mediafire.com/file/lzmdd3qf6ny0m6x/Videos_De_Mi_Infancia_252_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/252.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 253,
+            "code": "253",
+            "name": "Majin Boo deja de matar gente",
+            "url": "https://www.mediafire.com/file/q2rsi5vtras2lb8/Videos_De_Mi_Infancia_253_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/253.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 254,
+            "code": "254",
+            "name": "La furia de Majin Boo",
+            "url": "https://www.mediafire.com/file/bdx1zp5ju951wnn/Videos_De_Mi_Infancia_254_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/254.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 255,
+            "code": "255",
+            "name": "¿Quién de los dos ganará?",
+            "url": "https://www.mediafire.com/file/q9q4duwr30cytgd/Videos_De_Mi_Infancia_255_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/255.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 256,
+            "code": "256",
+            "name": "El final de la raza humana",
+            "url": "https://www.mediafire.com/file/gh9498if538aao3/Videos_De_Mi_Infancia_256_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/256.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 257,
+            "code": "257",
+            "name": "La fusión fue todo un exito",
+            "url": "https://www.mediafire.com/file/1fdzy2mmxcygtau/Videos_De_Mi_Infancia_257_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/257.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 258,
+            "code": "258",
+            "name": "El poder de super Gotenks",
+            "url": "https://www.mediafire.com/file/brbaryd8d36ee1s/Videos_De_Mi_Infancia_258_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/258.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 259,
+            "code": "259",
+            "name": "La técnica de los fantasmas",
+            "url": "https://www.mediafire.com/file/fu7e5uldtnp341q/Videos_De_Mi_Infancia_259_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/259.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 260,
+            "code": "260",
+            "name": "¡Super Gotenks 3!",
+            "url": "https://www.mediafire.com/file/755ft4ga32ncp2w/Videos_De_Mi_Infancia_260_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/260.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 261,
+            "code": "261",
+            "name": "El volleyball de Majin Boo",
+            "url": "https://www.mediafire.com/file/6myx7xy9a07z9a6/Videos_De_Mi_Infancia_261_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/261.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 262,
+            "code": "262",
+            "name": "Gohan regresa a la Tierra",
+            "url": "https://www.mediafire.com/file/c4blcmk4inz5vp9/Videos_De_Mi_Infancia_262_LiveConexion.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/262.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 263,
+            "code": "263",
+            "name": "El poder milagroso de Gohan",
+            "url": "https://www.mediafire.com/file/v01kzczaikvq74v/Videos_De_Mi_Infancia_263_LiveConexion.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/263.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 264,
+            "code": "264",
+            "name": "La gran explosión de Majin Boo",
+            "url": "https://www.mediafire.com/file/wky8cgrmedw9sim/Videos_De_Mi_Infancia_264_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/264.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 265,
+            "code": "265",
+            "name": "Gotenks es absorbido",
+            "url": "https://www.mediafire.com/file/fp06kclkenl9m70/Videos_De_Mi_Infancia_265_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/265.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 266,
+            "code": "266",
+            "name": "Goku regresa a la vida",
+            "url": "https://www.mediafire.com/file/9y11h898vkmcnyc/Videos_De_Mi_Infancia_266_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/266.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 267,
+            "code": "267",
+            "name": "Ocurre otro milagro",
+            "url": "https://www.mediafire.com/file/ms54cbtlcrea1oo/Videos_De_Mi_Infancia_267_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/267.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 268,
+            "code": "268",
+            "name": "El orgullo de Vegeta y la furia de Goku",
+            "url": "https://www.mediafire.com/file/a0v9cbqriicicrn/Videos_De_Mi_Infancia_268_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/268.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 269,
+            "code": "269",
+            "name": "El poder del gran Vegetto",
+            "url": "https://www.mediafire.com/file/zj32alq9okcyt3e/Videos_De_Mi_Infancia_269_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/269.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 270,
+            "code": "270",
+            "name": "Boo es cortado",
+            "url": "https://www.mediafire.com/file/ncbj0toe9gle7qu/Videos_De_Mi_Infancia_270_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/270.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 271,
+            "code": "271",
+            "name": "Conviértete en un dulce",
+            "url": "https://www.mediafire.com/file/4bbae8hehff10yv/Videos_De_Mi_Infancia_271_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/271.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 272,
+            "code": "272",
+            "name": "Vegetto es absorbido",
+            "url": "https://www.mediafire.com/file/6rr8ameyqtvco71/Videos_De_Mi_Infancia_272_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/272.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 273,
+            "code": "273",
+            "name": "¿Que habrá en el estómago de Majin Boo?",
+            "url": "https://www.mediafire.com/file/5a4c85o9490gsjh/Videos_De_Mi_Infancia_273_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/273.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 274,
+            "code": "274",
+            "name": "La pelea entre padres e hijos",
+            "url": "https://www.mediafire.com/file/luls7u1sbwli2mf/Videos_De_Mi_Infancia_274_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/274.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 275,
+            "code": "275",
+            "name": "El secreto de Majin Boo",
+            "url": "https://www.mediafire.com/file/oog25q4j2grcyor/Videos_De_Mi_Infancia_275_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/275.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 276,
+            "code": "276",
+            "name": "¿Donde está la salida?",
+            "url": "https://www.mediafire.com/file/svo17jtsm86t6h0/Videos_De_Mi_Infancia_276_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/276.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 277,
+            "code": "277",
+            "name": "La Tierra desaparece",
+            "url": "https://www.mediafire.com/file/8l4nsczhb88och8/Videos_De_Mi_Infancia_277_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/277.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 278,
+            "code": "278",
+            "name": "El ataque de Boo",
+            "url": "https://www.mediafire.com/file/mtwewnfipf84wpb/Videos_De_Mi_Infancia_278_LiveConexion.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/278.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 279,
+            "code": "279",
+            "name": "Una pelea para el futuro",
+            "url": "https://www.mediafire.com/file/9famyuluym5jt67/Videos_De_Mi_Infancia_279_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/279.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 280,
+            "code": "280",
+            "name": "Goku, tú eres el N°1",
+            "url": "https://www.mediafire.com/file/wqt5u27d68d9q9b/Videos_De_Mi_Infancia_280_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/280.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 281,
+            "code": "281",
+            "name": "Resiste Vegeta",
+            "url": "https://www.mediafire.com/file/hjv1untqty5njmi/Videos_De_Mi_Infancia_281_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/281.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 282,
+            "code": "282",
+            "name": "No maltrates a Satán",
+            "url": "https://www.mediafire.com/file/876llyiif4z72vh/Videos_De_Mi_Infancia_282_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/282.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 283,
+            "code": "283",
+            "name": "La estrategia de Vegeta",
+            "url": "https://www.mediafire.com/file/a31717wjtd171t4/Videos_De_Mi_Infancia_283_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/283.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 284,
+            "code": "284",
+            "name": "La última esperanza",
+            "url": "https://www.mediafire.com/file/gohr0s4o47hi3o7/Videos_De_Mi_Infancia_284_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/284.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 285,
+            "code": "285",
+            "name": "Una Genkidama hecha por todos",
+            "url": "https://www.mediafire.com/file/ounl0187812p98y/Videos_De_Mi_Infancia_285_LiveConexion.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/285.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 286,
+            "code": "286",
+            "name": "Goku es el hombre más fuerte del universo",
+            "url": "https://www.mediafire.com/file/l22c6kj83z19ce9/Videos_De_Mi_Infancia_286_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/286.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 287,
+            "code": "287",
+            "name": "¿Majin Boo lucha a favor de la justicia?",
+            "url": "https://www.mediafire.com/file/yv7ncl4nsxq1n82/Videos_De_Mi_Infancia_287_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/287.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 288,
+            "code": "288",
+            "name": "Llegas tarde Goku",
+            "url": "https://www.mediafire.com/file/nu7s69gx63f3n4s/Videos_De_Mi_Infancia_288_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/288.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 289,
+            "code": "289",
+            "name": "Mi nombre es Pan",
+            "url": "https://www.mediafire.com/file/5ancisrc815k184/Videos_De_Mi_Infancia_289_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/289.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 290,
+            "code": "290",
+            "name": "Yo soy Oob",
+            "url": "https://www.mediafire.com/file/hxoa3bmpfs1xgma/Videos_De_Mi_Infancia_290_LiveConexion.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/290.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        },
+        {
+            "id": 291,
+            "code": "291",
+            "name": "El sueño de Goku",
+            "url": "https://www.mediafire.com/file/me2tdg1gwhjxgmd/Videos_De_Mi_Infancia_291_LiveConexion.net.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/291.jpg",
+            "season": 6,
+            "season_name": "Saga de Majin Buu"
+        }
+    ],
+    "movies": [
+        {
+            "id": 1,
+            "code": "001",
+            "name": "La leyenda de Shenlong",
+            "url": "https://www.mediafire.com/file/ddnra3fsotwebzb/01-La_leyenda_de_Shenlong.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov1.jpg"
+        },
+        {
+            "id": 2,
+            "code": "002",
+            "name": "La Bella Durmiente En El Castillo del mal",
+            "url": "https://www.mediafire.com/file/ni6doapf99dvcyu/02-_La_Bella_Durmiente_En_El_Castillo_del_mal.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov2.jpg"
+        },
+        {
+            "id": 3,
+            "code": "003",
+            "name": "Una aventura mistica",
+            "url": "https://www.mediafire.com/file/mv8z312hpj4ohrz/03-Una_aventura_mistica.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov3.jpg"
+        },
+        {
+            "id": 4,
+            "code": "004",
+            "name": "Devuelveme a mi Gohan",
+            "url": "https://www.mediafire.com/file/4l1gs8k7m40li79/04-Devuelveme_a_mi_Gohan.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov4.jpg"
+        },
+        {
+            "id": 5,
+            "code": "005",
+            "name": "El hombre mas fuerte de este mundo",
+            "url": "https://www.mediafire.com/file/v0v4b2osjrw2st9/05-El_hombre_mas_fuerte_de_este_mundo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov5.jpg"
+        },
+        {
+            "id": 6,
+            "code": "006",
+            "name": "La batalla más grande del mundo esta por comenzar",
+            "url": "https://www.mediafire.com/file/qabxjpj55ge4jrg/06-La_batalla_m%25C3%25A1s_grande_del_mundo_esta_por_comenzar.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov6.jpg"
+        },
+        {
+            "id": 7,
+            "code": "007",
+            "name": "Goku es un super saiyayin",
+            "url": "https://www.mediafire.com/file/bf00ofznjczc15e/07-_Goku_es_un_super_saiyayin.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov7.jpg"
+        },
+        {
+            "id": 8,
+            "code": "008",
+            "name": "Los rivales más poderosos",
+            "url": "https://www.mediafire.com/file/d8y9t6fn2sy1g01/08-Los_rivales_m%25C3%25A1s_poderosos.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov8.jpg"
+        },
+        {
+            "id": 9,
+            "code": "009",
+            "name": "Los guerreros mas poderosos",
+            "url": "https://www.mediafire.com/file/g9yfso5h7uiizeg/09-los_guerreros_mas_poderosos.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov9.jpg"
+        },
+        {
+            "id": 10,
+            "code": "010",
+            "name": "La pelea de los tres saiyayin",
+            "url": "https://www.mediafire.com/file/w8ggrh66fhtfxe2/10-_La_pelea_de_los_tres_saiyayin.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov10.jpg"
+        },
+        {
+            "id": 11,
+            "code": "011",
+            "name": "El poder invensible",
+            "url": "https://www.mediafire.com/file/leuskmnx3qptfpq/11-_El_poder_invensible.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov11.jpg"
+        },
+        {
+            "id": 12,
+            "code": "012",
+            "name": "La galaxia corre peligro",
+            "url": "https://www.mediafire.com/file/p5xvj99vvcpvhu1/12-La_galaxia_corre_peligro.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov12.jpg"
+        },
+        {
+            "id": 13,
+            "code": "013",
+            "name": "El regreso del guerrero legendario",
+            "url": "https://www.mediafire.com/file/nl1vefo3jcvu0e1/13-El_regreso_del_guerrero_legendario.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov13.jpg"
+        },
+        {
+            "id": 14,
+            "code": "014",
+            "name": "El combate final",
+            "url": "https://www.mediafire.com/file/chkngik4fvhklh5/14-El_combate_final.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov14.jpg"
+        },
+        {
+            "id": 15,
+            "code": "015",
+            "name": "La Fusion de Goku y Vegeta",
+            "url": "https://www.mediafire.com/file/1qe23f1g0vl4blk/15-La_Fusion_de_Goku_y_Vegeta.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov15.jpg"
+        },
+        {
+            "id": 16,
+            "code": "016",
+            "name": "El Ataque del Dragon",
+            "url": "https://www.mediafire.com/file/4indcvi6ad010g2/16-El_Ataque_del_Dragon.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov16.jpg"
+        },
+        {
+            "id": 17,
+            "code": "017",
+            "name": "La batalla del padre de Goku",
+            "url": "https://www.mediafire.com/file/2227y1pyrxrhvx8/17-_La_batalla_del_padre_de_Gok%25C3%25BA.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov17.jpg"
+        },
+        {
+            "id": 18,
+            "code": "018",
+            "name": "Gohan y Trunks un Futuro Diferente",
+            "url": "https://www.mediafire.com/file/ar7571t34a184fc/18-Gohan_y_Trunks_un_Futuro_Diferente.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov18.jpg"
+        },
+        {
+            "id": 19,
+            "code": "019",
+            "name": "100 años despues",
+            "url": "https://www.mediafire.com/file/22zgnxxjpymzjz5/19-_100_a%25C3%25B1os_despues.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov19.jpg"
+        },
+        {
+            "id": 20,
+            "code": "020",
+            "name": "El camino hacia el poder",
+            "url": "https://www.mediafire.com/file/rbgjlrekrsz3hc4/20-El_camino_hacia_el_poder_dragonball.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov20.jpg"
+        },
+        {
+            "id": 21,
+            "code": "021",
+            "name": "El Plan Para Erradicar A Los Super Saiyajines",
+            "url": "https://www.mediafire.com/file/busyhti3uqmzoll/21-_El_Plan_Para_Erradicar_A_Los_Super_Saiyajines.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov21.jpg"
+        },
+        {
+            "id": 22,
+            "code": "022",
+            "name": "Goku y sus amigos regresan",
+            "url": "https://www.mediafire.com/file/zvcy74genl9in7p/22-Gok%25C3%25BA_y_sus_amigos_regresan_%2528Esp_Lat%2529.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov22.jpg"
+        }
+    ]
+}
