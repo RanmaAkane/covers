@@ -1,0 +1,1394 @@
+{
+    "chapters": [
+        {
+            "id": 1,
+            "code": "001",
+            "name": "001-Un-extraño-viene-de-chica.mp4",
+            "url": "https://www.mediafire.com/file/1yjee9vlg4gpapy/001-Un-extra%25C3%25B1o-viene-de-chica.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/1.jpg",
+            "season": 1
+        },
+        {
+            "id": 2,
+            "code": "002",
+            "name": "002-La-escuela-no-es-un-parque-de-diversiones.mp4",
+            "url": "https://www.mediafire.com/file/4qpwz4fvs07hf7x/002-La-escuela-no-es-un-parque-de-diversiones.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/2.jpg",
+            "season": 1
+        },
+        {
+            "id": 3,
+            "code": "003",
+            "name": "003-Y-de-pronto-surgio-el-amor.mp4",
+            "url": "https://www.mediafire.com/file/b4udz7sqxuulqs2/003-Y-de-pronto-surgio-el-amor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/3.jpg",
+            "season": 1
+        },
+        {
+            "id": 4,
+            "code": "004",
+            "name": "004-Ranma-y-Ranma-¡Vaya-Confusión!.mp4",
+            "url": "https://www.mediafire.com/file/96xd43hjek05ri6/004-Ranma-y-Ranma-%25C2%25A1Vaya-Confusi%25C3%25B3n%2521.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/4.jpg",
+            "season": 1
+        },
+        {
+            "id": 5,
+            "code": "005",
+            "name": "005-Akane-y-su-amor-salvaje.mp4",
+            "url": "https://www.mediafire.com/file/5f4nhfigbpcrh4l/005-Akane-y-su-amor-salvaje.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/5.jpg",
+            "season": 1
+        },
+        {
+            "id": 6,
+            "code": "006",
+            "name": "006-Akane-y-su-amor-imposible.mp4",
+            "url": "https://www.mediafire.com/file/w8vsk31dje3mx1v/006-Akane-y-su-amor-imposible.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/6.jpg",
+            "season": 1
+        },
+        {
+            "id": 7,
+            "code": "007",
+            "name": "007-Ryoga-siempre-esta-perdido.mp4",
+            "url": "https://www.mediafire.com/file/kywzpbsagx4cj0w/007-Ryoga-siempre-esta-perdido.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/7.jpg",
+            "season": 1
+        },
+        {
+            "id": 8,
+            "code": "008",
+            "name": "008-La-escuela-es-el-campo-de-batalla.-Ranma-vs-Ryoga.mp4",
+            "url": "https://www.mediafire.com/file/51l8gys2ynlxbn8/008-La-escuela-es-el-campo-de-batalla.-Ranma-vs-Ryoga.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/8.jpg",
+            "season": 1
+        },
+        {
+            "id": 9,
+            "code": "009",
+            "name": "009-Akane-y-Ryoga-cambian-de-apariencia.mp4",
+            "url": "https://www.mediafire.com/file/o8rhfrhnsefhxht/009-Akane-y-Ryoga-cambian-de-apariencia.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/9.jpg",
+            "season": 1
+        },
+        {
+            "id": 10,
+            "code": "010",
+            "name": "010-P-chan-eres-un-picaro.mp4",
+            "url": "https://www.mediafire.com/file/ho8sfvqtmtkg2ci/010-P-chan-eres-un-picaro.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/10.jpg",
+            "season": 1
+        },
+        {
+            "id": 11,
+            "code": "011",
+            "name": "011-La-capitana-del-equipo-de-gimnasia-se-enamora-de-Ranma.mp4",
+            "url": "https://www.mediafire.com/file/cbc9519mnmzdxyp/011-La-capitana-del-equipo-de-gimnasia-se-enamora-de-Ranma.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/11.jpg",
+            "season": 1
+        },
+        {
+            "id": 12,
+            "code": "012",
+            "name": "012-Un-duelo-de-Amor.mp4",
+            "url": "https://www.mediafire.com/file/u7jhw3cbrf0g71s/012-Un-duelo-de-Amor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/12.jpg",
+            "season": 1
+        },
+        {
+            "id": 13,
+            "code": "013",
+            "name": "013-Una-competencia-sin-Reglas.mp4",
+            "url": "https://www.mediafire.com/file/rnqtb7sgvk43aor/013-Una-competencia-sin-Reglas.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/13.jpg",
+            "season": 1
+        },
+        {
+            "id": 14,
+            "code": "014",
+            "name": "014-La-mejor-esposa-para-el-Dr.Tofu.mp4",
+            "url": "https://www.mediafire.com/file/2jnrd0p42fsplaf/014-La-mejor-esposa-para-el-Dr.Tofu.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/14.jpg",
+            "season": 1
+        },
+        {
+            "id": 15,
+            "code": "015",
+            "name": "015-Aparece-la-poderosa-Shampoo.-Sálvese-quien-pueda!.mp4",
+            "url": "https://www.mediafire.com/file/kfal5fsg4364x8w/015-Aparece-la-poderosa-Shampoo.-S%25C3%25A1lvese-quien-pueda%2521.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/15.jpg",
+            "season": 1
+        },
+        {
+            "id": 16,
+            "code": "016",
+            "name": "016-La-venganza-de-Shampoo.-Como-dominar-el-cuerpo-y-corazón.mp4",
+            "url": "https://www.mediafire.com/file/8fw53fuk7jiflxv/016-La-venganza-de-Shampoo.-Como-dominar-el-cuerpo-y-coraz%25C3%25B3n.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/16.jpg",
+            "season": 1
+        },
+        {
+            "id": 17,
+            "code": "017",
+            "name": "017-Amo-a-Ranma-y-no-lo-dejare.mp4",
+            "url": "https://www.mediafire.com/file/3f5dh98cnmnewj3/017-Amo-a-Ranma-y-no-lo-dejare.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/17.jpg",
+            "season": 1
+        },
+        {
+            "id": 18,
+            "code": "018",
+            "name": "018-Soy-un-hombre,-Ranma-quiere-ir-a-China.mp4",
+            "url": "https://www.mediafire.com/file/8follg14abztmr7/018-Soy-un-hombre%252C-Ranma-quiere-ir-a-China.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/18.jpg",
+            "season": 1
+        },
+        {
+            "id": 19,
+            "code": "019",
+            "name": "019-Se-roban-a-P-chan.mp4",
+            "url": "https://www.mediafire.com/file/0nt9icqa7myq7ab/019-Se-roban-a-P-chan.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/19.jpg",
+            "season": 2
+        },
+        {
+            "id": 20,
+            "code": "020",
+            "name": "020-El-Baile-del-Espiritu-de-la-Muerte.mp4",
+            "url": "https://www.mediafire.com/file/zgtsbhp87oscbx5/020-El-Baile-del-Espiritu-de-la-Muerte.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/20.jpg",
+            "season": 2
+        },
+        {
+            "id": 21,
+            "code": "021",
+            "name": "021-P-chan-al-Rescate.mp4",
+            "url": "https://www.mediafire.com/file/bbrgj89pbgrwu8n/021-P-chan-al-Rescate.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/21.jpg",
+            "season": 2
+        },
+        {
+            "id": 22,
+            "code": "022",
+            "name": "022-Una-competencia-muy-accidentada.mp4",
+            "url": "https://www.mediafire.com/file/zxmqcwxgpbd90y2/022-Una-competencia-muy-accidentada.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/22.jpg",
+            "season": 2
+        },
+        {
+            "id": 23,
+            "code": "023",
+            "name": "023-En-verdad-no-te-gustan-los-gatos.mp4",
+            "url": "https://www.mediafire.com/file/tkre5rhv9m6d4u0/023-En-verdad-no-te-gustan-los-gatos.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/23.jpg",
+            "season": 2
+        },
+        {
+            "id": 24,
+            "code": "024",
+            "name": "024-La-Abuela-de-Shampoo.mp4",
+            "url": "https://www.mediafire.com/file/uvmi9z4awh2e029/024-La-Abuela-de-Shampoo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/24.jpg",
+            "season": 2
+        },
+        {
+            "id": 25,
+            "code": "025",
+            "name": "025-Ahi-está!-El-legendario-truco-de-las-castañas.mp4",
+            "url": "https://www.mediafire.com/file/qy4siyxu88lpu94/025-Ahi-est%25C3%25A1%2521-El-legendario-truco-de-las-casta%25C3%25B1as.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/25.jpg",
+            "season": 2
+        },
+        {
+            "id": 26,
+            "code": "026",
+            "name": "026-Mousse,-el-hombre-con-el-truco-del-cisne.mp4",
+            "url": "https://www.mediafire.com/file/wz8v16xr16ifu87/026-Mousse%252C-el-hombre-con-el-truco-del-cisne.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/26.jpg",
+            "season": 2
+        },
+        {
+            "id": 27,
+            "code": "027",
+            "name": "027-La-bola-fénix.mp4",
+            "url": "https://www.mediafire.com/file/4e5g124cvj10nvj/027-La-bola-f%25C3%25A9nix.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/27.jpg",
+            "season": 2
+        },
+        {
+            "id": 28,
+            "code": "028",
+            "name": "028-Un-reto-para-dos.mp4",
+            "url": "https://www.mediafire.com/file/5tt7l6k9rtksq8d/028-Un-reto-para-dos.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/28.jpg",
+            "season": 2
+        },
+        {
+            "id": 29,
+            "code": "029",
+            "name": "029-El-terrible-entrenamiento-en-la-montaña.mp4",
+            "url": "https://www.mediafire.com/file/4o81dt7ijbt3qte/029-El-terrible-entrenamiento-en-la-monta%25C3%25B1a.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/29.jpg",
+            "season": 2
+        },
+        {
+            "id": 30,
+            "code": "030",
+            "name": "030-La-venganza-de-Ryoga.mp4",
+            "url": "https://www.mediafire.com/file/czy6tx9d3vlpc92/030-La-venganza-de-Ryoga.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/30.jpg",
+            "season": 2
+        },
+        {
+            "id": 31,
+            "code": "031",
+            "name": "031-Secuestran-a-Akane.mp4",
+            "url": "https://www.mediafire.com/file/57jxbmfsahoapm0/031-Secuestran-a-Akane.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/31.jpg",
+            "season": 2
+        },
+        {
+            "id": 32,
+            "code": "032",
+            "name": "032-Ranma-vs-Moose.-Perder-para-ganar.mp4",
+            "url": "https://www.mediafire.com/file/cynqibarh40i9n0/032-Ranma-vs-Moose.-Perder-para-ganar.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/32.jpg",
+            "season": 2
+        },
+        {
+            "id": 33,
+            "code": "033",
+            "name": "033-Happosai,-el-monstruo-lujurioso.mp4",
+            "url": "https://www.mediafire.com/file/ehewt89za2n057l/033-Happosai%252C-el-monstruo-lujurioso.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/33.jpg",
+            "season": 2
+        },
+        {
+            "id": 34,
+            "code": "034",
+            "name": "034-Ataque-al-vestidor-de-mujeres.mp4",
+            "url": "https://www.mediafire.com/file/ctk84zrlq58hh8p/034-Ataque-al-vestidor-de-mujeres.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/34.jpg",
+            "season": 2
+        },
+        {
+            "id": 35,
+            "code": "035",
+            "name": "035-La-mansión-del-terror,-que-hasta-a-los-fantasmas-asusta.mp4",
+            "url": "https://www.mediafire.com/file/p5vzo64ya06b7un/035-La-mansi%25C3%25B3n-del-terror%252C-que-hasta-a-los-fantasmas-asusta.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/35.jpg",
+            "season": 2
+        },
+        {
+            "id": 36,
+            "code": "036",
+            "name": "036-Adiós-a-la-Chica.mp4",
+            "url": "https://www.mediafire.com/file/mpn97xss4mm6cud/036-Adi%25C3%25B3s-a-la-Chica.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/36.jpg",
+            "season": 2
+        },
+        {
+            "id": 37,
+            "code": "037",
+            "name": "037-La-Rosa-Negra-y-sus-galletas-de-amor.mp4",
+            "url": "https://www.mediafire.com/file/r0a2ld3m5ofu77x/037-La-Rosa-Negra-y-sus-galletas-de-amor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/37.jpg",
+            "season": 2
+        },
+        {
+            "id": 38,
+            "code": "038",
+            "name": "038-Cuidado-con-el-ladrón.mp4",
+            "url": "https://www.mediafire.com/file/g3yk2eh6q0gu535/038-Cuidado-con-el-ladr%25C3%25B3n.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/38.jpg",
+            "season": 2
+        },
+        {
+            "id": 39,
+            "code": "039",
+            "name": "039-Quién-besará-a-Akane.mp4",
+            "url": "https://www.mediafire.com/file/33xkxwv5ltl9n2c/039-Qui%25C3%25A9n-besar%25C3%25A1-a-Akane.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/39.jpg",
+            "season": 2
+        },
+        {
+            "id": 40,
+            "code": "040",
+            "name": "040-Batalla-en-un-baño-público.mp4",
+            "url": "https://www.mediafire.com/file/y2mw52htmaf5zk7/040-Batalla-en-un-ba%25C3%25B1o-p%25C3%25BAblico.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/40.jpg",
+            "season": 3
+        },
+        {
+            "id": 41,
+            "code": "041",
+            "name": "041-Alguien-más-en-busca-de-Ranma.mp4",
+            "url": "https://www.mediafire.com/file/0vn54d6chtopzlr/041-Alguien-m%25C3%25A1s-en-busca-de-Ranma.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/41.jpg",
+            "season": 3
+        },
+        {
+            "id": 42,
+            "code": "042",
+            "name": "042-Ryoga-y-Akane-son-novios.mp4",
+            "url": "https://www.mediafire.com/file/3vmlanpp73yvv17/042-Ryoga-y-Akane-son-novios.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/42.jpg",
+            "season": 3
+        },
+        {
+            "id": 43,
+            "code": "043",
+            "name": "043-Un-estornudo-de-amor.mp4",
+            "url": "https://www.mediafire.com/file/3j5afcy91gozg9r/043-Un-estornudo-de-amor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/43.jpg",
+            "season": 3
+        },
+        {
+            "id": 44,
+            "code": "044",
+            "name": "044-En-busca-del-Happo.mp4",
+            "url": "https://www.mediafire.com/file/ki3dbet1dz3wkzd/044-En-busca-del-Happo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/44.jpg",
+            "season": 3
+        },
+        {
+            "id": 45,
+            "code": "045",
+            "name": "045-Vaya-confusión.mp4",
+            "url": "https://www.mediafire.com/file/5azfzdnpolev075/045-Vaya-confusi%25C3%25B3n.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/45.jpg",
+            "season": 3
+        },
+        {
+            "id": 46,
+            "code": "046",
+            "name": "046-La-bruja-de-la-ropa-intima.mp4",
+            "url": "https://www.mediafire.com/file/f4bk4gjjkjjq8jv/046-La-bruja-de-la-ropa-intima.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/46.jpg",
+            "season": 3
+        },
+        {
+            "id": 47,
+            "code": "047",
+            "name": "047-Akane-se-transforma.mp4",
+            "url": "https://www.mediafire.com/file/97x5ozh7jhdcvsm/047-Akane-se-transforma.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/47.jpg",
+            "season": 3
+        },
+        {
+            "id": 48,
+            "code": "048",
+            "name": "048-El-vengador-de-Jusenkyo.mp4",
+            "url": "https://www.mediafire.com/file/htbolmxfb39myo4/048-El-vengador-de-Jusenkyo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/48.jpg",
+            "season": 3
+        },
+        {
+            "id": 49,
+            "code": "049",
+            "name": "049-Ranma-se-volvió-mujer.mp4",
+            "url": "https://www.mediafire.com/file/zs9xjn136xwr1ma/049-Ranma-se-volvi%25C3%25B3-mujer.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/49.jpg",
+            "season": 3
+        },
+        {
+            "id": 50,
+            "code": "050",
+            "name": "050-Happosai-vs-Hombre-invisible.mp4",
+            "url": "https://www.mediafire.com/file/y9l8qi3x2payk35/050-Happosai-vs-Hombre-invisible.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/50.jpg",
+            "season": 3
+        },
+        {
+            "id": 51,
+            "code": "051",
+            "name": "051-La-miserable-familia-de-Kuno.mp4",
+            "url": "https://www.mediafire.com/file/w89wjglcmvqwlyh/051-La-miserable-familia-de-Kuno.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/51.jpg",
+            "season": 3
+        },
+        {
+            "id": 52,
+            "code": "052",
+            "name": "052-El-fantasma-y-la-espada-Encantada.mp4",
+            "url": "https://www.mediafire.com/file/qm7zl5l4e3y5h26/052-El-fantasma-y-la-espada-Encantada.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/52.jpg",
+            "season": 3
+        },
+        {
+            "id": 53,
+            "code": "053",
+            "name": "053-Las-Pastillas-del-Amor.mp4",
+            "url": "https://www.mediafire.com/file/zte2r7yt9zmzhtc/053-Las-Pastillas-del-Amor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/53.jpg",
+            "season": 3
+        },
+        {
+            "id": 54,
+            "code": "054",
+            "name": "054-La-decisión-de-Ryoga.mp4",
+            "url": "https://www.mediafire.com/file/lkkt4zntpclurf1/054-La-decisi%25C3%25B3n-de-Ryoga.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/54.jpg",
+            "season": 3
+        },
+        {
+            "id": 55,
+            "code": "055",
+            "name": "055-Recordando-a-Happosai.mp4",
+            "url": "https://www.mediafire.com/file/3xmmm0fg1fx8e32/055-Recordando-a-Happosai.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/55.jpg",
+            "season": 3
+        },
+        {
+            "id": 56,
+            "code": "056",
+            "name": "056-Kodachi-y-su-gran-amor.mp4",
+            "url": "https://www.mediafire.com/file/ypla55q9xhlb8po/056-Kodachi-y-su-gran-amor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/56.jpg",
+            "season": 3
+        },
+        {
+            "id": 57,
+            "code": "057",
+            "name": "057-Los-ultimos-dias-de-happosai.mp4",
+            "url": "https://www.mediafire.com/file/koi2xbnfh268dr4/057-Los-ultimos-dias-de-happosai.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/57.jpg",
+            "season": 3
+        },
+        {
+            "id": 58,
+            "code": "058",
+            "name": "058-Rin-Rin-y-Ran-Ran...-vaya-¡chicas!.mp4",
+            "url": "https://www.mediafire.com/file/evtno6001p0ny82/058-Rin-Rin-y-Ran-Ran...-vaya-%25C2%25A1chicas%2521.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/58.jpg",
+            "season": 3
+        },
+        {
+            "id": 59,
+            "code": "059",
+            "name": "059-El-espiritu-diabolico-viene-por-Ranma.mp4",
+            "url": "https://www.mediafire.com/file/vz23wqqep499acv/059-El-espiritu-diabolico-viene-por-Ranma.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/59.jpg",
+            "season": 3
+        },
+        {
+            "id": 60,
+            "code": "060",
+            "name": "060-El-truco-del-Camaleón.mp4",
+            "url": "https://www.mediafire.com/file/89hg7xcixffipeu/060-El-truco-del-Camale%25C3%25B3n.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/60.jpg",
+            "season": 3
+        },
+        {
+            "id": 61,
+            "code": "061",
+            "name": "061-Un-cambio-en-el-cuerpo-de-Ryoga.mp4",
+            "url": "https://www.mediafire.com/file/bqmo51u192qf8dp/061-Un-cambio-en-el-cuerpo-de-Ryoga.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/61.jpg",
+            "season": 3
+        },
+        {
+            "id": 62,
+            "code": "062",
+            "name": "062-La-gran-carrera-de-obstáculos.mp4",
+            "url": "https://www.mediafire.com/file/8i14fbwm2z43tax/062-La-gran-carrera-de-obst%25C3%25A1culos.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/62.jpg",
+            "season": 3
+        },
+        {
+            "id": 63,
+            "code": "063",
+            "name": "063-Por-que-se-arregla-asi-Ukyo.mp4",
+            "url": "https://www.mediafire.com/file/givls8lvy9kactk/063-Por-que-se-arregla-asi-Ukyo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/63.jpg",
+            "season": 3
+        },
+        {
+            "id": 64,
+            "code": "064",
+            "name": "064-Ranma-vuelve-a-los-pozos-encantados.mp4",
+            "url": "https://www.mediafire.com/file/z0xitwtj97zdhkf/064-Ranma-vuelve-a-los-pozos-encantados.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/64.jpg",
+            "season": 3
+        },
+        {
+            "id": 65,
+            "code": "065",
+            "name": "065-E,l-regresó-del-director.mp4",
+            "url": "https://www.mediafire.com/file/ip9ffec06mr4en8/065-E%252Cl-regres%25C3%25B3-del-director.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/65.jpg",
+            "season": 4
+        },
+        {
+            "id": 66,
+            "code": "066",
+            "name": "066-La-fortaleza-de-kuno.mp4",
+            "url": "https://www.mediafire.com/file/vodt7n2omas3ww4/066-La-fortaleza-de-kuno.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/66.jpg",
+            "season": 4
+        },
+        {
+            "id": 67,
+            "code": "067",
+            "name": "067-Ranma-pierde-su-fuerza.mp4",
+            "url": "https://www.mediafire.com/file/d928k3jlcrreuvy/067-Ranma-pierde-su-fuerza.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/67.jpg",
+            "season": 4
+        },
+        {
+            "id": 68,
+            "code": "068",
+            "name": "068-Ranma-adivina-el-último-movimiento.mp4",
+            "url": "https://www.mediafire.com/file/juyu6r43i3cmj77/068-Ranma-adivina-el-%25C3%25BAltimo-movimiento.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/68.jpg",
+            "season": 4
+        },
+        {
+            "id": 69,
+            "code": "069",
+            "name": "069-Ranma-se-recupera.mp4",
+            "url": "https://www.mediafire.com/file/ld5p2861k99ad6l/069-Ranma-se-recupera.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/69.jpg",
+            "season": 4
+        },
+        {
+            "id": 70,
+            "code": "070",
+            "name": "070-La-mamá-de-Ranma-está-aquí.mp4",
+            "url": "https://www.mediafire.com/file/f5l5d2gntoe4ily/070-La-mam%25C3%25A1-de-Ranma-est%25C3%25A1-aqu%25C3%25AD.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/70.jpg",
+            "season": 4
+        },
+        {
+            "id": 71,
+            "code": "071",
+            "name": "071-Ryouga-recuerda-su-amor-y-su-dolor.mp4",
+            "url": "https://www.mediafire.com/file/p62vhngert3yq4k/071-Ryouga-recuerda-su-amor-y-su-dolor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/71.jpg",
+            "season": 4
+        },
+        {
+            "id": 72,
+            "code": "072",
+            "name": "072-La-prometida-del-Gato.mp4",
+            "url": "https://www.mediafire.com/file/gqzz0ixixmeu9wh/072-La-prometida-del-Gato.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/72.jpg",
+            "season": 4
+        },
+        {
+            "id": 73,
+            "code": "073",
+            "name": "073-Solo-se-es-joven-una-sola-vez.mp4",
+            "url": "https://www.mediafire.com/file/6hwhra9vhs58d1g/073-Solo-se-es-joven-una-sola-vez.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/73.jpg",
+            "season": 4
+        },
+        {
+            "id": 74,
+            "code": "074",
+            "name": "074-El-discipulo.mp4",
+            "url": "https://www.mediafire.com/file/wa7gj49i3dfuqox/074-El-discipulo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/74.jpg",
+            "season": 4
+        },
+        {
+            "id": 75,
+            "code": "075",
+            "name": "075-¿Quiere-salir.mp4",
+            "url": "https://www.mediafire.com/file/m99yc0nkzo0entg/075-%25C2%25BFQuiere-salir.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/75.jpg",
+            "season": 4
+        },
+        {
+            "id": 76,
+            "code": "076",
+            "name": "076-Ryuoga-es-huesped-de-la-familia-Tendo.mp4",
+            "url": "https://www.mediafire.com/file/hjo72ik3afonixb/076-Ryuoga-es-huesped-de-la-familia-Tendo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/76.jpg",
+            "season": 4
+        },
+        {
+            "id": 77,
+            "code": "077",
+            "name": "077-Happosai-se-enamora.mp4",
+            "url": "https://www.mediafire.com/file/96l5vw6515dcxua/077-Happosai-se-enamora.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/77.jpg",
+            "season": 4
+        },
+        {
+            "id": 78,
+            "code": "078",
+            "name": "078-Profecia-de-Amor.mp4",
+            "url": "https://www.mediafire.com/file/5mmg39obezafkae/078-Profecia-de-Amor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/78.jpg",
+            "season": 4
+        },
+        {
+            "id": 79,
+            "code": "079",
+            "name": "079-El-hombre-mas-fuerte-del-mundo.mp4",
+            "url": "https://www.mediafire.com/file/mq5syghor8ck0b6/079-El-hombre-mas-fuerte-del-mundo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/79.jpg",
+            "season": 4
+        },
+        {
+            "id": 80,
+            "code": "080",
+            "name": "080-El-secreto-de-Ryuoga.mp4",
+            "url": "https://www.mediafire.com/file/wfr5qcjb38fold2/080-El-secreto-de-Ryuoga.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/80.jpg",
+            "season": 4
+        },
+        {
+            "id": 81,
+            "code": "081",
+            "name": "081-Un-lindo-recuerdo.mp4",
+            "url": "https://www.mediafire.com/file/h1zof5r4oi7ja91/081-Un-lindo-recuerdo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/81.jpg",
+            "season": 4
+        },
+        {
+            "id": 82,
+            "code": "082",
+            "name": "082-Ranma-acepta-salir-con-Kuno.mp4",
+            "url": "https://www.mediafire.com/file/5rkr3rqfmandpad/082-Ranma-acepta-salir-con-Kuno.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/82.jpg",
+            "season": 4
+        },
+        {
+            "id": 83,
+            "code": "083",
+            "name": "083-El-hilo-Mágico-de-Shampoo.mp4",
+            "url": "https://www.mediafire.com/file/izasmn5wa32fkx7/083-El-hilo-M%25C3%25A1gico-de-Shampoo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/83.jpg",
+            "season": 4
+        },
+        {
+            "id": 84,
+            "code": "084",
+            "name": "084-Moose-regresa-a-casa.mp4",
+            "url": "https://www.mediafire.com/file/ta9uxd10903vnoo/084-Moose-regresa-a-casa.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/84.jpg",
+            "season": 4
+        },
+        {
+            "id": 85,
+            "code": "085",
+            "name": "085-La-peor-apuesta-del-mundo.mp4",
+            "url": "https://www.mediafire.com/file/1vhdfolfhg4y8jn/085-La-peor-apuesta-del-mundo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/85.jpg",
+            "season": 4
+        },
+        {
+            "id": 86,
+            "code": "086",
+            "name": "086-Kuno-se-convierte-en-Marin.mp4",
+            "url": "https://www.mediafire.com/file/thwj8x62jzdkr2y/086-Kuno-se-convierte-en-Marin.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/86.jpg",
+            "season": 4
+        },
+        {
+            "id": 87,
+            "code": "087",
+            "name": "087-¡Detesto-a-Ranma!.mp4",
+            "url": "https://www.mediafire.com/file/apql1bo501rna71/087-%25C2%25A1Detesto-a-Ranma%2521.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/87.jpg",
+            "season": 4
+        },
+        {
+            "id": 88,
+            "code": "088",
+            "name": "088-Rin-Rin-y-Ran-Ran-contra-atacan.mp4",
+            "url": "https://www.mediafire.com/file/3wn56qoy5o018fz/088-Rin-Rin-y-Ran-Ran-contra-atacan.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/88.jpg",
+            "season": 4
+        },
+        {
+            "id": 89,
+            "code": "089",
+            "name": "089-Los-bigotes-del-dragón.mp4",
+            "url": "https://www.mediafire.com/file/60dup5sqhxmt98y/089-Los-bigotes-del-drag%25C3%25B3n.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/89.jpg",
+            "season": 5
+        },
+        {
+            "id": 90,
+            "code": "090",
+            "name": "090-Cuándo-termina-la-ambición-del-hombre.mp4",
+            "url": "https://www.mediafire.com/file/ki7zmfrsd0tnbz6/090-Cu%25C3%25A1ndo-termina-la-ambici%25C3%25B3n-del-hombre.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/90.jpg",
+            "season": 5
+        },
+        {
+            "id": 91,
+            "code": "091",
+            "name": "091-Ryouga-declara-su-amor.mp4",
+            "url": "https://www.mediafire.com/file/vecqb20sbogsuex/091-Ryouga-declara-su-amor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/91.jpg",
+            "season": 5
+        },
+        {
+            "id": 92,
+            "code": "092",
+            "name": "092-Genma-se-va-de-casa.mp4",
+            "url": "https://www.mediafire.com/file/hppqrrqg4hhw6in/092-Genma-se-va-de-casa.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/92.jpg",
+            "season": 5
+        },
+        {
+            "id": 93,
+            "code": "093",
+            "name": "093-La-famosa-ceremonia-del-Té.mp4",
+            "url": "https://www.mediafire.com/file/gyz5au4cr9x50h4/093-La-famosa-ceremonia-del-T%25C3%25A9.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/93.jpg",
+            "season": 5
+        },
+        {
+            "id": 94,
+            "code": "094",
+            "name": "094-Una-niña-es-la-retadora.mp4",
+            "url": "https://www.mediafire.com/file/sfo8mqa0f1arzau/094-Una-ni%25C3%25B1a-es-la-retadora.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/94.jpg",
+            "season": 5
+        },
+        {
+            "id": 95,
+            "code": "095",
+            "name": "095-La-Competencia-del-Manantial.mp4",
+            "url": "https://www.mediafire.com/file/4fmq0zmlaqrfbhw/095-La-Competencia-del-Manantial.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/95.jpg",
+            "season": 5
+        },
+        {
+            "id": 96,
+            "code": "096",
+            "name": "096-Ese-es-el-papá-de-Kuno.mp4",
+            "url": "https://www.mediafire.com/file/q9k174ve5ywdemq/096-Ese-es-el-pap%25C3%25A1-de-Kuno.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/96.jpg",
+            "season": 5
+        },
+        {
+            "id": 97,
+            "code": "097",
+            "name": "097-La-superior-de-la-casa-se-pone-de-pie.mp4",
+            "url": "https://www.mediafire.com/file/ihlxam66vhuorae/097-La-superior-de-la-casa-se-pone-de-pie.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/97.jpg",
+            "season": 5
+        },
+        {
+            "id": 98,
+            "code": "098",
+            "name": "098-La-maldición-del-Leotardo.mp4",
+            "url": "https://www.mediafire.com/file/sfce4gqt5k8d30t/098-La-maldici%25C3%25B3n-del-Leotardo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/98.jpg",
+            "season": 5
+        },
+        {
+            "id": 99,
+            "code": "099",
+            "name": "099-Peligro-en-el-baño-publico.mp4",
+            "url": "https://www.mediafire.com/file/xgdp05p2vr6pnse/099-Peligro-en-el-ba%25C3%25B1o-publico.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/99.jpg",
+            "season": 5
+        },
+        {
+            "id": 100,
+            "code": "100",
+            "name": "100-La-venganza-de-la-rana.mp4",
+            "url": "https://www.mediafire.com/file/55bttseg3re3jf1/100-La-venganza-de-la-rana.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/100.jpg",
+            "season": 5
+        },
+        {
+            "id": 101,
+            "code": "101",
+            "name": "101-¡Contra-ataque!,-El-pan-de-la-ira.mp4",
+            "url": "https://www.mediafire.com/file/grkh5mfu9gyx44h/101-%25C2%25A1Contra-ataque%2521%252C-El-pan-de-la-ira.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/101.jpg",
+            "season": 5
+        },
+        {
+            "id": 102,
+            "code": "102",
+            "name": "102-Ranma-es-un-Don-Juan.mp4",
+            "url": "https://www.mediafire.com/file/ewbp492809vnzvm/102-Ranma-es-un-Don-Juan.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/102.jpg",
+            "season": 5
+        },
+        {
+            "id": 103,
+            "code": "103",
+            "name": "103-El-combate-Shogi.mp4",
+            "url": "https://www.mediafire.com/file/6m235gxgu7rvqo0/103-El-combate-Shogi.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/103.jpg",
+            "season": 5
+        },
+        {
+            "id": 104,
+            "code": "104",
+            "name": "104-Sasuke-el-espia.mp4",
+            "url": "https://www.mediafire.com/file/hm7tiwwzs32w7se/104-Sasuke-el-espia.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/104.jpg",
+            "season": 5
+        },
+        {
+            "id": 105,
+            "code": "105",
+            "name": "105-¡Bonjur!-Concurso-al-estilo-francés.mp4",
+            "url": "https://www.mediafire.com/file/qmjiubiw689wfor/105-%25C2%25A1Bonjur%2521-Concurso-al-estilo-franc%25C3%25A9s.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/105.jpg",
+            "season": 5
+        },
+        {
+            "id": 106,
+            "code": "106",
+            "name": "106-El-combate-Decisivo.mp4",
+            "url": "https://www.mediafire.com/file/w5b6s7xpc5lo18c/106-El-combate-Decisivo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/106.jpg",
+            "season": 5
+        },
+        {
+            "id": 107,
+            "code": "107",
+            "name": "107-Las-Primeras-lecciones-de-Natacion-de-Akane.mp4",
+            "url": "https://www.mediafire.com/file/1qdiuqkf817pmpe/107-Las-Primeras-lecciones-de-Natacion-de-Akane.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/107.jpg",
+            "season": 5
+        },
+        {
+            "id": 108,
+            "code": "108",
+            "name": "108-Ryouga-va-en-busca-del-Amor.mp4",
+            "url": "https://www.mediafire.com/file/0l5pg7x81kdxbjx/108-Ryouga-va-en-busca-del-Amor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/108.jpg",
+            "season": 5
+        },
+        {
+            "id": 109,
+            "code": "109",
+            "name": "109-Bienvenidos-a-mis-sueños.mp4",
+            "url": "https://www.mediafire.com/file/1837q6euffxzpoa/109-Bienvenidos-a-mis-sue%25C3%25B1os.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/109.jpg",
+            "season": 5
+        },
+        {
+            "id": 110,
+            "code": "110",
+            "name": "110-Ranma-es-prometido-fde-Nabiki.mp4",
+            "url": "https://www.mediafire.com/file/vtna6h2pigpw5bh/110-Ranma-es-prometido-fde-Nabiki.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/110.jpg",
+            "season": 5
+        },
+        {
+            "id": 111,
+            "code": "111",
+            "name": "111-El-misterio-de-las-albóndigas-de-pulpo.mp4",
+            "url": "https://www.mediafire.com/file/df2wmbx4ir1gf9l/111-El-misterio-de-las-alb%25C3%25B3ndigas-de-pulpo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/111.jpg",
+            "season": 5
+        },
+        {
+            "id": 112,
+            "code": "112",
+            "name": "112-Ranma-contra-su-sombra.mp4",
+            "url": "https://www.mediafire.com/file/ir0jrb3fe2b63g9/112-Ranma-contra-su-sombra.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/112.jpg",
+            "season": 5
+        },
+        {
+            "id": 113,
+            "code": "113",
+            "name": "113-Kodachi-busca-papá.mp4",
+            "url": "https://www.mediafire.com/file/2oputox7qp1w4uz/113-Kodachi-busca-pap%25C3%25A1.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/113.jpg",
+            "season": 6
+        },
+        {
+            "id": 114,
+            "code": "114",
+            "name": "114-Un-nuevo-oponente,-Beto-Fetiches.mp4",
+            "url": "https://www.mediafire.com/file/kwjpe8m5stp48mg/114-Un-nuevo-oponente%252C-Beto-Fetiches.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/114.jpg",
+            "season": 6
+        },
+        {
+            "id": 115,
+            "code": "115",
+            "name": "115-Ranma-y-su-mala-caligrafía.mp4",
+            "url": "https://www.mediafire.com/file/0fkyx7tq6j20g8o/115-Ranma-y-su-mala-caligraf%25C3%25ADa.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/115.jpg",
+            "season": 6
+        },
+        {
+            "id": 116,
+            "code": "116",
+            "name": "116-Aparece-el-otro-director.mp4",
+            "url": "https://www.mediafire.com/file/klmexfk6qvrkgzg/116-Aparece-el-otro-director.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/116.jpg",
+            "season": 6
+        },
+        {
+            "id": 117,
+            "code": "117",
+            "name": "117-Vienvenidos-a-mis-sueños.mp4",
+            "url": "https://www.mediafire.com/file/mgvdf5manr6iutk/117-Vienvenidos-a-mis-sue%25C3%25B1os.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/117.jpg",
+            "season": 6
+        },
+        {
+            "id": 118,
+            "code": "118",
+            "name": "118-Ryouga-ocupa-el-lugar-de-Ranma.mp4",
+            "url": "https://www.mediafire.com/file/o6i7mpczivllcy2/118-Ryouga-ocupa-el-lugar-de-Ranma.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/118.jpg",
+            "season": 6
+        },
+        {
+            "id": 119,
+            "code": "119",
+            "name": "119-La-familia-Tendo-se-va-al-parque-de-diversiones.mp4",
+            "url": "https://www.mediafire.com/file/7fz65m3zjxjwb74/119-La-familia-Tendo-se-va-al-parque-de-diversiones.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/119.jpg",
+            "season": 6
+        },
+        {
+            "id": 120,
+            "code": "120",
+            "name": "120-Ranma-el-bromista.mp4",
+            "url": "https://www.mediafire.com/file/lt867dso6kowz8r/120-Ranma-el-bromista.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/120.jpg",
+            "season": 6
+        },
+        {
+            "id": 121,
+            "code": "121",
+            "name": "121-El-día-de-la-sandia.mp4",
+            "url": "https://www.mediafire.com/file/6nl3ccdl47uv9hm/121-El-d%25C3%25ADa-de-la-sandia.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/121.jpg",
+            "season": 6
+        },
+        {
+            "id": 122,
+            "code": "122",
+            "name": "122-El-demonio-del-estanque-encantado-parte1.mp4",
+            "url": "https://www.mediafire.com/file/2vznqlm10m3gnpb/122-El-demonio-del-estanque-encantado-parte1.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/122.jpg",
+            "season": 6
+        },
+        {
+            "id": 123,
+            "code": "123",
+            "name": "123-El-demonio-del-estanque-encantado-parte2.mp4",
+            "url": "https://www.mediafire.com/file/6bl5asr7a2eeq4d/123-El-demonio-del-estanque-encantado-parte2.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/123.jpg",
+            "season": 6
+        },
+        {
+            "id": 124,
+            "code": "124",
+            "name": "124-Doble-ceremonia.mp4",
+            "url": "https://www.mediafire.com/file/skf8wgwa5akrxyk/124-Doble-ceremonia.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/124.jpg",
+            "season": 6
+        },
+        {
+            "id": 125,
+            "code": "125",
+            "name": "125-Una-navidad-sin-Ranma.mp4",
+            "url": "https://www.mediafire.com/file/g0fmtnfoj2w7r37/125-Una-navidad-sin-Ranma.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/125.jpg",
+            "season": 6
+        },
+        {
+            "id": 126,
+            "code": "126",
+            "name": "126-Cuento-invernal.mp4",
+            "url": "https://www.mediafire.com/file/51uphnlmdeh7yq4/126-Cuento-invernal.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/126.jpg",
+            "season": 6
+        },
+        {
+            "id": 127,
+            "code": "127",
+            "name": "127-Hay-no,-Akane-está-en-el-Hospital.mp4",
+            "url": "https://www.mediafire.com/file/e7y82bkx6e7kyiw/127-Hay-no%252C-Akane-est%25C3%25A1-en-el-Hospital.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/127.jpg",
+            "season": 6
+        },
+        {
+            "id": 128,
+            "code": "128",
+            "name": "128-La-maldición-del-panda-pintado.mp4",
+            "url": "https://www.mediafire.com/file/1iyrat8f3no9bhg/128-La-maldici%25C3%25B3n-del-panda-pintado.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/128.jpg",
+            "season": 6
+        },
+        {
+            "id": 129,
+            "code": "129",
+            "name": "129-La-leyenda-del-panda.mp4",
+            "url": "https://www.mediafire.com/file/nk0sx6ren3czbd3/129-La-leyenda-del-panda.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/129.jpg",
+            "season": 6
+        },
+        {
+            "id": 130,
+            "code": "130",
+            "name": "130-El-misterio-del-pulpo.mp4",
+            "url": "https://www.mediafire.com/file/pa4l5jtxocw0kfx/130-El-misterio-del-pulpo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/130.jpg",
+            "season": 6
+        },
+        {
+            "id": 131,
+            "code": "131",
+            "name": "131-Salsa-de-amor.mp4",
+            "url": "https://www.mediafire.com/file/jk8i0q2ube8zmep/131-Salsa-de-amor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/131.jpg",
+            "season": 6
+        },
+        {
+            "id": 132,
+            "code": "132",
+            "name": "132-Vivan-los-falsos-esposos.mp4",
+            "url": "https://www.mediafire.com/file/8f5iu1fne2nske8/132-Vivan-los-falsos-esposos.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/132.jpg",
+            "season": 6
+        },
+        {
+            "id": 133,
+            "code": "133",
+            "name": "133-El-misterio-de-la-montaña-Kokuri.mp4",
+            "url": "https://www.mediafire.com/file/n0v3id1068442yl/133-El-misterio-de-la-monta%25C3%25B1a-Kokuri.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/133.jpg",
+            "season": 6
+        },
+        {
+            "id": 134,
+            "code": "134",
+            "name": "134-Gosunkugi-y-sus-muñecas.mp4",
+            "url": "https://www.mediafire.com/file/u1fxikkbw1918rc/134-Gosunkugi-y-sus-mu%25C3%25B1ecas.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/134.jpg",
+            "season": 6
+        },
+        {
+            "id": 135,
+            "code": "135",
+            "name": "135-No-puedo-olvidar-a-Akane.mp4",
+            "url": "https://www.mediafire.com/file/k6rs4azfjqgg6ce/135-No-puedo-olvidar-a-Akane.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/135.jpg",
+            "season": 6
+        },
+        {
+            "id": 136,
+            "code": "136",
+            "name": "136-No-puedo-apartarme-de-ti.mp4",
+            "url": "https://www.mediafire.com/file/pncoav1375nfmu2/136-No-puedo-apartarme-de-ti.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/136.jpg",
+            "season": 6
+        },
+        {
+            "id": 137,
+            "code": "137",
+            "name": "137-Kuno-es-el-director-suplente.mp4",
+            "url": "https://www.mediafire.com/file/52ibfymv3ts7x7y/137-Kuno-es-el-director-suplente.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/137.jpg",
+            "season": 7
+        },
+        {
+            "id": 138,
+            "code": "138",
+            "name": "138-Ranma-en-la-Oscuridad.mp4",
+            "url": "https://www.mediafire.com/file/98an5p0753fephg/138-Ranma-en-la-Oscuridad.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/138.jpg",
+            "season": 7
+        },
+        {
+            "id": 139,
+            "code": "139",
+            "name": "139-El-guía-de-Jusenkyo-esta-aquí.mp4",
+            "url": "https://www.mediafire.com/file/ykuzw6iup7o0vmp/139-El-gu%25C3%25ADa-de-Jusenkyo-esta-aqu%25C3%25AD.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/139.jpg",
+            "season": 7
+        },
+        {
+            "id": 140,
+            "code": "140",
+            "name": "140-Los-demonios-se-apoderan-de-Happosai.mp4",
+            "url": "https://www.mediafire.com/file/evptp9xqtuut03i/140-Los-demonios-se-apoderan-de-Happosai.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/140.jpg",
+            "season": 7
+        },
+        {
+            "id": 141,
+            "code": "141",
+            "name": "141-Un-nuevo-truco.mp4",
+            "url": "https://www.mediafire.com/file/11fptrosd5xizss/141-Un-nuevo-truco.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/141.jpg",
+            "season": 7
+        },
+        {
+            "id": 142,
+            "code": "142",
+            "name": "142-La-técnica-depende-del-humor.mp4",
+            "url": "https://www.mediafire.com/file/fnv83j8ewjv6e5g/142-La-t%25C3%25A9cnica-depende-del-humor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/142.jpg",
+            "season": 7
+        },
+        {
+            "id": 143,
+            "code": "143",
+            "name": "143-Shampoo-besa-cuando-la-atacan.mp4",
+            "url": "https://www.mediafire.com/file/fhjdaih821me32v/143-Shampoo-besa-cuando-la-atacan.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/143.jpg",
+            "season": 7
+        },
+        {
+            "id": 144,
+            "code": "144",
+            "name": "144-Por-favor,-fugate-conmigo.mp4",
+            "url": "https://www.mediafire.com/file/xbvzy8q2wjlygkp/144-Por-favor%252C-fugate-conmigo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/144.jpg",
+            "season": 7
+        },
+        {
+            "id": 145,
+            "code": "145",
+            "name": "145-Vamos-al-templo-de-los-hongos.mp4",
+            "url": "https://www.mediafire.com/file/nzsze7gib47zzbl/145-Vamos-al-templo-de-los-hongos.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/145.jpg",
+            "season": 7
+        },
+        {
+            "id": 146,
+            "code": "146",
+            "name": "146-La-cuna-del-infierno.mp4",
+            "url": "https://www.mediafire.com/file/v9q5w9czv0gj6bk/146-La-cuna-del-infierno.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/146.jpg",
+            "season": 7
+        },
+        {
+            "id": 147,
+            "code": "147",
+            "name": "147-Picolette-es-un-vampiro.mp4",
+            "url": "https://www.mediafire.com/file/3frz79t4qw8jorm/147-Picolette-es-un-vampiro.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/147.jpg",
+            "season": 7
+        },
+        {
+            "id": 148,
+            "code": "148",
+            "name": "148-La-princesa-Hory.mp4",
+            "url": "https://www.mediafire.com/file/9xdgw5hm17n6wnu/148-La-princesa-Hory.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/148.jpg",
+            "season": 7
+        },
+        {
+            "id": 149,
+            "code": "149",
+            "name": "149-Una-tarta-de-Amor.mp4",
+            "url": "https://www.mediafire.com/file/sjzlmad7619nvfe/149-Una-tarta-de-Amor.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/149.jpg",
+            "season": 7
+        },
+        {
+            "id": 150,
+            "code": "150",
+            "name": "150-La-nueva-arma-de-Happosai.mp4",
+            "url": "https://www.mediafire.com/file/4ku7xqgv7r8jppo/150-La-nueva-arma-de-Happosai.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/150.jpg",
+            "season": 7
+        },
+        {
+            "id": 151,
+            "code": "151",
+            "name": "151-La-guerra-de-los-Kuno.mp4",
+            "url": "https://www.mediafire.com/file/hltvnnnirfqqdu2/151-La-guerra-de-los-Kuno.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/151.jpg",
+            "season": 7
+        },
+        {
+            "id": 152,
+            "code": "152",
+            "name": "152-Encuentro-en-la-torre.mp4",
+            "url": "https://www.mediafire.com/file/wwvc7255lupcaql/152-Encuentro-en-la-torre.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/152.jpg",
+            "season": 7
+        },
+        {
+            "id": 153,
+            "code": "153",
+            "name": "153-Gusunkugi-y-su-aventura-de-Verano.mp4",
+            "url": "https://www.mediafire.com/file/bpq399wmw4qyby5/153-Gusunkugi-y-su-aventura-de-Verano.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/153.jpg",
+            "season": 7
+        },
+        {
+            "id": 154,
+            "code": "154",
+            "name": "154-Señorita-Playa.mp4",
+            "url": "https://www.mediafire.com/file/h4kls1t8h0xt7zy/154-Se%25C3%25B1orita-Playa.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/154.jpg",
+            "season": 7
+        },
+        {
+            "id": 155,
+            "code": "155",
+            "name": "155-La-guerra-de-animadoras-Parte-1.mp4",
+            "url": "https://www.mediafire.com/file/fo6hsbst3mv07cw/155-La-guerra-de-animadoras-Parte-1.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/155.jpg",
+            "season": 7
+        },
+        {
+            "id": 156,
+            "code": "156",
+            "name": "156-La-guerra-de-animadoras-Parte-2.mp4",
+            "url": "https://www.mediafire.com/file/k58wr1xwbyjmuny/156-La-guerra-de-animadoras-Parte-2.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/156.jpg",
+            "season": 7
+        },
+        {
+            "id": 157,
+            "code": "157",
+            "name": "157-¡Explosión!.mp4",
+            "url": "https://www.mediafire.com/file/217k22nu0c3g78l/157-%25C2%25A1Explosi%25C3%25B3n%2521.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/157.jpg",
+            "season": 7
+        },
+        {
+            "id": 158,
+            "code": "158",
+            "name": "158-Blanquinegro.mp4",
+            "url": "https://www.mediafire.com/file/nhoejo68zrm821j/158-Blanquinegro.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/158.jpg",
+            "season": 7
+        },
+        {
+            "id": 159,
+            "code": "159",
+            "name": "159-La-leyenda-del-dragón.mp4",
+            "url": "https://www.mediafire.com/file/dguz7uhafnad04o/159-La-leyenda-del-drag%25C3%25B3n.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/159.jpg",
+            "season": 7
+        },
+        {
+            "id": 160,
+            "code": "160",
+            "name": "160-Ranma-conoce-a-su-mamá.mp4",
+            "url": "https://www.mediafire.com/file/r7msqnp7dwxia3v/160-Ranma-conoce-a-su-mam%25C3%25A1.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/160.jpg",
+            "season": 7
+        },
+        {
+            "id": 161,
+            "code": "161",
+            "name": "161-Quizá-algún-día.mp4",
+            "url": "https://www.mediafire.com/file/h42xvlax44m9ndr/161-Quiz%25C3%25A1-alg%25C3%25BAn-d%25C3%25ADa.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/161.jpg",
+            "season": 7
+        }
+    ],
+    "ovas": [
+        {
+            "id": 1,
+            "code": "ova1",
+            "name": "01-Enfrentamiento-con-Shampoo!-El-problema-de-la-joya-reversible.mp4",
+            "url": "https://www.mediafire.com/file/x3bbc5d6xwlqpex/01-Enfrentamiento-con-Shampoo%2521-El-problema-de-la-joya-reversible.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova1.jpg"
+        },
+        {
+            "id": 2,
+            "code": "ova2",
+            "name": "02-La-loca-Navidad-de-los-Tendo.mp4",
+            "url": "https://www.mediafire.com/file/sxjucntz7q92jgf/02-La-loca-Navidad-de-los-Tendo.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova2.jpg"
+        },
+        {
+            "id": 3,
+            "code": "ova3",
+            "name": "03-Akane-contra-Ranma-¡Yo-voy-a-proteger-la-receta-de-mamá!.mp4",
+            "url": "https://www.mediafire.com/file/nm23goiu49ajlbv/03-Akane-contra-Ranma-%25C2%25A1Yo-voy-a-proteger-la-receta-de-mam%25C3%25A1%2521.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova3.jpg"
+        },
+        {
+            "id": 4,
+            "code": "ova4",
+            "name": "04-¡Tormenta-en-el-instituto!-El-cambio-adulto-de-la-profesora-Hinako.mp4",
+            "url": "https://www.mediafire.com/file/mrig0on2kgz68d8/04-%25C2%25A1Tormenta-en-el-instituto%2521-El-cambio-adulto-de-la-profesora-Hinako.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova4.jpg"
+        },
+        {
+            "id": 5,
+            "code": "ova5",
+            "name": "05-Akane-y-sus-hermanas-(1ª-Parte).mp4",
+            "url": "https://www.mediafire.com/file/y6uowd2v1rsmg3u/05-Akane-y-sus-hermanas-%25281%25C2%25AA-Parte%2529.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova5.jpg"
+        },
+        {
+            "id": 6,
+            "code": "ova6",
+            "name": "06-Akane-y-sus-hermanas-(2ª-Parte).mp4",
+            "url": "https://www.mediafire.com/file/qavemt7o4lv1q4f/06-Akane-y-sus-hermanas-%25282%25C2%25AA-Parte%2529.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova6.jpg"
+        },
+        {
+            "id": 7,
+            "code": "ova7",
+            "name": "07-El-dragón-de-las-siete-cabezas-(1ª-Parte).mp4",
+            "url": "https://www.mediafire.com/file/olb6rnraes47fb5/07-El-drag%25C3%25B3n-de-las-siete-cabezas-%25281%25C2%25AA-Parte%2529.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova7.jpg"
+        },
+        {
+            "id": 8,
+            "code": "ova8",
+            "name": "08-El-dragón-de-las-siete-cabezas-(2ª-Parte).mp4",
+            "url": "https://www.mediafire.com/file/ztncj4tg39rgvru/08-El-drag%25C3%25B3n-de-las-siete-cabezas-%25282%25C2%25AA-Parte%2529.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova8.jpg"
+        },
+        {
+            "id": 9,
+            "code": "ova9",
+            "name": "09-Oh,-¡El-túnel-del-amor-maldito-destruido!-Mi-amor-es-eterno.mp4",
+            "url": "https://www.mediafire.com/file/q2ggthfgnapf5te/09-Oh%252C-%25C2%25A1El-t%25C3%25BAnel-del-amor-m%2Ald%2At%2A-destruido%2521-Mi-amor-es-eterno.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova9.jpg"
+        },
+        {
+            "id": 10,
+            "code": "ova10",
+            "name": "10-El-Ogro-Demoníaco.mp4",
+            "url": "https://www.mediafire.com/file/o2fnmlnqitofdgg/10-El-Ogro-Demon%25C3%25ADaco.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova10.jpg"
+        },
+        {
+            "id": 11,
+            "code": "ova11",
+            "name": "11-¡Las-dos-Akanes!-¡Ranma,-mírame!.mp4",
+            "url": "https://www.mediafire.com/file/daen917hjllp5sq/11-%25C2%25A1Las-dos-Akanes%2521-%25C2%25A1Ranma%252C-m%25C3%25ADrame%2521.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova11.jpg"
+        },
+        {
+            "id": 12,
+            "code": "ova12",
+            "name": "12-¡Pesadilla!-El-incienso-del-sueño-primaveral.mp4",
+            "url": "https://www.mediafire.com/file/962lmtz56d26oif/12-%25C2%25A1Pesadilla%2521-El-incienso-del-sue%25C3%25B1o-primaveral.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/ova12.jpg"
+        }
+    ],
+    "movies": [
+        {
+            "id": 1,
+            "code": "mov1",
+            "name": "01-Gran-Aventura-en-Nekonron-China.mp4",
+            "url": "https://www.mediafire.com/file/kcm0m9x5uyi00yr/01-Gran-Aventura-en-Nekonron-China.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/movie1.jpg"
+        },
+        {
+            "id": 2,
+            "code": "mov2",
+            "name": "02-La-Isla-de-las-Doncellas.mp4",
+            "url": "https://www.mediafire.com/file/xs8j0gvaftosc5a/02-La-Isla-de-las-Doncellas.mp4/file",
+            "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/movie2.jpg"
+        }
+    ]
+}
