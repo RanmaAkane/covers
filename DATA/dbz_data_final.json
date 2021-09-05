@@ -2624,154 +2624,154 @@
     "movies": [
         {
             "id": 1,
-            "code": "001",
+            "code": "mov01",
             "name": "La leyenda de Shenlong",
             "url": "https://www.mediafire.com/file/cfsvvd306466jc6/01-La_leyenda_de_Shenlong.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov1.jpg"
         },
         {
             "id": 2,
-            "code": "002",
+            "code": "mov02",
             "name": "La Bella Durmiente En El Castillo del mal",
             "url": "https://www.mediafire.com/file/sdbzdynmuhkq6of/02-_La_Bella_Durmiente_En_El_Castillo_del_mal.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov2.jpg"
         },
         {
             "id": 3,
-            "code": "003",
+            "code": "mov03",
             "name": "Una aventura mistica",
             "url": "https://www.mediafire.com/file/e2fuih1qonuwglx/03-Una_aventura_mistica.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov3.jpg"
         },
         {
             "id": 4,
-            "code": "004",
+            "code": "mov04",
             "name": "Devuelveme a mi Gohan",
             "url": "https://www.mediafire.com/file/s4yyx6jog0d7fl0/04-Devuelveme_a_mi_Gohan.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov4.jpg"
         },
         {
             "id": 5,
-            "code": "005",
+            "code": "mov05",
             "name": "El hombre mas fuerte de este mundo",
             "url": "https://www.mediafire.com/file/gyz8ylfd5u8sxh2/05-El_hombre_mas_fuerte_de_este_mundo.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov5.jpg"
         },
         {
             "id": 6,
-            "code": "006",
+            "code": "mov06",
             "name": "La batalla más grande del mundo esta por comenzar",
             "url": "https://www.mediafire.com/file/0l5g7vi7z3r6iio/06-La_batalla_m%25C3%25A1s_grande_del_mundo_esta_por_comenzar.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov6.jpg"
         },
         {
             "id": 7,
-            "code": "007",
+            "code": "mov07",
             "name": "Goku es un super saiyayin",
             "url": "https://www.mediafire.com/file/lzkycmmvjrpbk8a/07-_Goku_es_un_super_saiyayin.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov7.jpg"
         },
         {
             "id": 8,
-            "code": "008",
+            "code": "mov08",
             "name": "Los rivales más poderosos",
             "url": "https://www.mediafire.com/file/1uh7nll48fkjnlh/08-Los_rivales_m%25C3%25A1s_poderosos.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov8.jpg"
         },
         {
             "id": 9,
-            "code": "009",
+            "code": "mov09",
             "name": "Los guerreros mas poderosos",
             "url": "https://www.mediafire.com/file/4vz5kw2p18wkafb/09-los_guerreros_mas_poderosos.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov9.jpg"
         },
         {
             "id": 10,
-            "code": "010",
+            "code": "mov10",
             "name": "La pelea de los tres saiyayin",
             "url": "https://www.mediafire.com/file/r3yrssimgelnpu9/10-_La_pelea_de_los_tres_saiyayin.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov10.jpg"
         },
         {
             "id": 11,
-            "code": "011",
+            "code": "mov11",
             "name": "El poder invensible",
             "url": "https://www.mediafire.com/file/2hnkor6lssnw3pe/11-_El_poder_invencible.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov11.jpg"
         },
         {
             "id": 12,
-            "code": "012",
+            "code": "mov12",
             "name": "La galaxia corre peligro",
             "url": "https://www.mediafire.com/file/nce9w7ejf2awu2r/12-La_galaxia_corre_peligro.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov12.jpg"
         },
         {
             "id": 13,
-            "code": "013",
+            "code": "mov13",
             "name": "El regreso del guerrero legendario",
             "url": "https://www.mediafire.com/file/0g0zqpmxdumqah8/13-El_regreso_del_guerrero_legendario.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov13.jpg"
         },
         {
             "id": 14,
-            "code": "014",
+            "code": "mov14",
             "name": "El combate final",
             "url": "https://www.mediafire.com/file/sc8m0u0kwtfc03m/14-El_combate_final.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov14.jpg"
         },
         {
             "id": 15,
-            "code": "015",
+            "code": "mov15",
             "name": "La Fusion de Goku y Vegeta",
             "url": "https://www.mediafire.com/file/ctp038sokdyhc1m/15-La_Fusion_de_Goku_y_Vegeta.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov15.jpg"
         },
         {
             "id": 16,
-            "code": "016",
+            "code": "mov16",
             "name": "El Ataque del Dragon",
             "url": "https://www.mediafire.com/file/e341l3ksdtrnayo/16-El_Ataque_del_Dragon.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov16.jpg"
         },
         {
             "id": 17,
-            "code": "017",
+            "code": "mov17",
             "name": "La batalla del padre de Goku",
             "url": "https://www.mediafire.com/file/qoywtjfwei3cps1/17-_La_batalla_del_padre_de_Gok%25C3%25BA.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov17.jpg"
         },
         {
             "id": 18,
-            "code": "018",
+            "code": "mov18",
             "name": "Gohan y Trunks un Futuro Diferente",
             "url": "https://www.mediafire.com/file/gsij0uuylu823x5/18-Gohan_y_Trunks_un_Futuro_Diferente.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov18.jpg"
         },
         {
             "id": 19,
-            "code": "019",
+            "code": "mov19",
             "name": "100 años despues",
             "url": "https://www.mediafire.com/file/qummnguo0vixbdy/19-_100_a%25C3%25B1os_despues.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov19.jpg"
         },
         {
             "id": 20,
-            "code": "020",
+            "code": "mov20",
             "name": "El camino hacia el poder",
             "url": "https://www.mediafire.com/file/m3jhvcvfaymzt8w/20-El_camino_hacia_el_poder_dragonball.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov20.jpg"
         },
         {
             "id": 21,
-            "code": "021",
+            "code": "mov21",
             "name": "El Plan Para Erradicar A Los Super Saiyajines",
             "url": "https://www.mediafire.com/file/o8u7b7bkz7s69r0/21-_El_Plan_Para_Erradicar_A_Los_Super_Saiyajines.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov21.jpg"
         },
         {
             "id": 22,
-            "code": "022",
+            "code": "mov22",
             "name": "Goku y sus amigos regresan",
             "url": "https://www.mediafire.com/file/j4r4kug32gnbk91/22-Gok%25C3%25BA_y_sus_amigos_regresan_%2528Esp_Lat%2529.mp4/file",
             "thumbnail": "https://raw.githubusercontent.com/RanmaAkane/covers/main/dbz/mov22.jpg"
